@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import { useState, useEffect, useRef } from 'react';
 import PDFViewer from './pdfInput';
+import Main from './components/Main';
 
 
 function App() {
@@ -17,7 +18,7 @@ function App() {
 
   useEffect (() => {
   try{  
-    fetch("/data").then((res) =>
+    fetch("http://127.0.0.1:5000/data").then((res) =>
       res.json().then((data) => {
       //setting data from the api
       setData({
@@ -60,6 +61,7 @@ function App() {
       <p>{data.date}</p>
       <p>{data.embeddings}</p>
       <p>{data.pdf}</p>
+      <Main></Main>
       </header>
       
     </div>
