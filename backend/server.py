@@ -7,6 +7,7 @@ import os
 from flask import Flask, flash, request, redirect, url_for, session, send_from_directory, jsonify
 from werkzeug.utils import secure_filename
 from flask_cors import CORS, cross_origin
+from PDFembedding import load_pdf
 
 #from flask_cors import CORS
 
@@ -101,9 +102,11 @@ def fileUpload():
                                    'File': destination 
                                    #'Path': destination
                                }) 
+        load_pdf(destination)
+
     plat_list.append(file_features_dict)
-   # return {'plat_list': plat_list}   
-    return redirect(url_for('index'))
+    return jsonify({'plat_list': plat_list})   
+   # return redirect(url_for('index'))
 	
 # Running app
 if __name__ == '__main__':
