@@ -1,0 +1,36 @@
+{
+    "plat_list": [
+        {
+            "File": "./pdfUploads/test_docs/FS-21-249.pdf",
+            "File Name": "FS-21-249.pdf"
+        },
+        {
+            "File": "./pdfUploads/test_docs/OCR-FS-21-249.pdf",
+            "File Name": "OCR-FS-21-249.pdf"
+        },
+        {
+            "File": "./pdfUploads/test_docs/hornedfrog.pdf",
+            "File Name": "hornedfrog.pdf"
+        },
+        {
+            "File": "./pdfUploads/test_docs/FS-21-249.pdf",
+            "File Name": "FS-21-249.pdf"
+        },
+        {
+            "File": "./pdfUploads/test_docs/OCR-FS-21-249.pdf",
+            "File Name": "OCR-FS-21-249.pdf"
+        },
+        {
+            "File": "./pdfUploads/test_docs/FS-21-249.pdf",
+            "File Name": "FS-21-249.pdf"
+        },
+        {
+            "File": "./pdfUploads/test_docs/OCR-FS-21-249.pdf",
+            "File Name": "OCR-FS-21-249.pdf"
+        },
+        {
+            "File": "./pdfUploads/test_docs/thing.pdf",
+            "File Name": "thing.pdf"
+        }
+    ]
+}

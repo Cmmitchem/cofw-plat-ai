@@ -3,6 +3,7 @@
 import logging
 import datetime
 import os
+import json
 
 from flask import Flask, flash, request, redirect, url_for, session, send_from_directory, jsonify
 from werkzeug.utils import secure_filename
@@ -64,7 +65,8 @@ def get_files(path):
 
 @app.route('/upload', methods=['GET'])
 def index():
-    return jsonify({'plat_list': plat_list})
+    json_data = read_json_file('platList.json')
+    return jsonify(json_data)
     #return {}
 # functions to upload PDFs to the testfolder on a local machine 
 
@@ -103,11 +105,50 @@ def fileUpload():
                                    #'Path': destination
                                }) 
         load_pdf(destination)
-
+    
+    file_path = 'platList.json'   
+    try:
+        with open(file_path, 'r') as file:
+            data = json.load(file)
+            plat_list = data['plat_list']
+    except FileNotFoundError:
+            # If the file does not exist, initialize an empty list
+        plat_list = []
+    except json.JSONDecodeError:
+            # If the file is empty or corrupted, initialize an empty list
+        plat_list = []
+    
     plat_list.append(file_features_dict)
-    return jsonify({'plat_list': plat_list})   
-   # return redirect(url_for('index'))
-	
+
+    with open(file_path, 'w') as file: 
+            json.dump({'plat_list': plat_list}, file, indent=4, sort_keys=True)
+    
+    return redirect(url_for('index'))
+
+
+def read_json_file(file_path):
+    """
+    Reads a JSON file and returns its contents.
+
+    Args:
+    file_path (str): The path to the JSON file.
+
+    Returns:
+    dict: The contents of the JSON file.
+    """
+    try:
+        with open(file_path, 'r') as file:
+            data = json.load(file)
+            return data
+    except FileNotFoundError:
+        # Return None or raise an exception if the file doesn't exist
+        print(f"No file found at {file_path}")
+        return None
+    except json.JSONDecodeError:
+        # Handle the case where the file is empty or improperly formatted
+        print(f"Error decoding JSON from {file_path}")
+        return None
+    
 # Running app
 if __name__ == '__main__':
 	#app.run(debug=True)

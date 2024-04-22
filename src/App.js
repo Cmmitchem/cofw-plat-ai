@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './logo..png';
 import './App.css';
 import { useState, useEffect, useRef } from 'react';
 import PDFViewer from './pdfInput';
@@ -43,25 +43,19 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <h1>COFW AI Plat Analyzer</h1>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.fortworthtexas.gov/departments/development-services/platting"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          COFW Plat Information
         </a>
+        <div></div>
         <textarea onChange={e => setInputState(e.target.value)}></textarea>
         <button onClick={handleClick}>Sumbit Request</button>
-        <PDFViewer></PDFViewer>
-        <p>{data.name}</p>
-      <p>{data.date}</p>
-      <p>{data.embeddings}</p>
-      <p>{data.pdf}</p>
-      <Main></Main>
+      <Main className="main"></Main>
       </header>
       
     </div>
