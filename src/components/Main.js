@@ -16,7 +16,9 @@ class Main extends React.Component {
 
     const data = new FormData();
     data.append('file', this.uploadInput.files[0]);
-    data.append('filename', this.fileName.value);
+    data.append('filename', this.filePrompt.value);
+    
+    console.log(this.filePrompt.value)
     console.log(this.state)
 
     fetch("http://127.0.0.1:5000/upload", {
@@ -26,8 +28,9 @@ class Main extends React.Component {
         name: ('filename', this.fileName.value)
       },*/
        body: data, 
+       
     }).then((response) => {
-      response.json().then((body) => {
+     response.json().then((body) => {
         this.setState({ imageURL: `http://127.0.0.1:5000/${body.file}` });
       });
     });
@@ -40,7 +43,7 @@ class Main extends React.Component {
           <input ref={(ref) => { this.uploadInput = ref; }} type="file" />
         </div>
         <div>
-          <input ref={(ref) => { this.fileName = ref; }} type="text" placeholder="Enter the desired name of file" />
+          <input ref={(ref) => { this.filePrompt = ref; }} type="text" placeholder="Enter prompt here" />
         </div>
         <br />
         <div>

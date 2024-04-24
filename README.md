@@ -14,10 +14,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `source .venv/bin/activate`
+In terminal, in the cofw-plat-ai directory before running 'npm run start-backend' 
+start the python virtual environment in the terminal. 
+
 ### `npm run start-backend` 
 
 Starts the python flask API, by executing 'flask run' which creates a flask app and directly 
 runs the server.py 
+
 
 
 ### `npm test`

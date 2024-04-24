@@ -4,24 +4,48 @@ import logging
 import datetime
 import os
 import json
+import configparser
 
-from flask import Flask, flash, request, redirect, url_for, session, send_from_directory, jsonify
+from bson import json_util, ObjectId
+from flask import Blueprint, Flask, flash, request, redirect, url_for, session, send_from_directory, jsonify
 from werkzeug.utils import secure_filename
 from flask_cors import CORS, cross_origin
-from PDFembedding import load_pdf
+#from PDFembedding import load_pdf
+from factory import create_app
+from plats_api import movies_api_v1
+from db import get_movie, get_movies
 
 #from flask_cors import CORS
 
 x = datetime.datetime.now()
 
+# taken from https://www.mongodb.com/compatibility/setting-up-flask-with-mongodb
+config = configparser.ConfigParser()
+config.read(os.path.abspath(os.path.join( ".ini")))
+
+
 # Initializing flask app
 app = Flask(__name__)
-CORS(app, origins="*")
+
+#pp.register_blueprint(movies_api_v1, url_prefix="/all_movies")
+#app.register_blueprint(movies_api_v1, url_prefix="/id/<id>")
 
 app.secret_key = os.urandom(24)
+app.config['MONGO_URI'] = config['PROD']['DB_URI']
+
+CORS(app, origins="*")
 
 plat_list = []
 
+class MongoJsonEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, datetime):
+            return obj.strftime("%Y-%m-%d %H:%M:%S")
+        if isinstance(obj, ObjectId):
+            return str(obj)
+        return json_util.default(obj, json_util.CANONICAL_JSON_OPTIONS)
+    
+app.json_encoder = MongoJsonEncoder
 
 # Route for seeing a data
 @app.route('/data')
@@ -73,6 +97,7 @@ def index():
 @app.route('/upload', methods=['POST'])
 @cross_origin()
 def fileUpload():
+    filePrompt = request.form['filename']
     target=os.path.join(UPLOAD_FOLDER,'test_docs')
     if not os.path.isdir(target):
         os.mkdir(target)
@@ -100,11 +125,12 @@ def fileUpload():
         #return("success")
 
         #request.post()
-        file_features_dict = dict({'File Name': filename, 
-                                   'File': destination 
-                                   #'Path': destination
+        file_features_dict = dict({'File Path': filename, 
+                                   'File': destination, 
+                                   'Prompt':  filePrompt
+                                   
                                }) 
-        load_pdf(destination)
+        #load_pdf(destination)
     
     file_path = 'platList.json'   
     try:
@@ -148,11 +174,34 @@ def read_json_file(file_path):
         # Handle the case where the file is empty or improperly formatted
         print(f"Error decoding JSON from {file_path}")
         return None
+
+#TESTING MONGODB CONNECTION TO DATABASE
+@app.route('/all_movies', methods=['GET'])
+def api_get_movies():
+    MOVIES_PER_PAGE = 20
+    response ="flask api working"
+    (movies, total_num_entries) = get_movies(
+        None, page=0, movies_per_page=MOVIES_PER_PAGE)
+
+    response = {
+        "movies": movies,
+        "page": 0,
+        "filters": {},
+        "entries_per_page": MOVIES_PER_PAGE,
+        "total_results": total_num_entries,
+    }
+    #return("flask api is working")
+    #return jsonify(response)
+    data = json_util.dumps(response)
+    return json.loads(data)
     
+
 # Running app
 if __name__ == '__main__':
 	#app.run(debug=True)
     #app.secret_key = os.urandom(24)
+    
+    #app.config['MOGO_URI'] = config['PROD']['DB_URI']
     app.run(debug=True,use_reloader=False)
 
 #cross_origin.CORS(app, expose_headers='Authorization')

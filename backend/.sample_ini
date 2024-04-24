@@ -1,0 +1,6 @@
+[PROD]
+DB_URI = mongodb+srv://carolinemmitchem:<PASSWORD>@cluster0.2tl4kwb.mongodb.net/sample_mflix?authSource=admin&replicaSet=atlas-10rblu-shard-0&tls=true&tlsAllowInvalidCertificates=true&retryWrites=true&w=majority
+
+
+[TEST]
+DB_URI = mongodb+srv://carolinemmitchem:<PASSWORD>@cluster0.2tl4kwb.mongodb.net/sample_mflix

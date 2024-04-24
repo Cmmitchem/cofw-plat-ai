@@ -21,12 +21,12 @@ temp_list = []
 # NEED TO CALL THIS FILE AND SEND THE plat name from the server.py flask api to the pdf_loader
 # possibly create a function to accpet the PDF input 
 def load_pdf(path):
-    #pdf_loader = PdfReader("The Road Not Taken Poem.pdf")
-    pdf_loader = PdfReader(path)
+    pdf_loader = PdfReader("The Road Not Taken Poem.pdf")
+    #pdf_loader = PdfReader(path)
     pdf_text = ""
-    paragraphs = []
-    responses = []
-    temp_list = []
+    #paragraphs = []
+    #responses = []
+   # temp_list = []
     
     for page_num in range(len(pdf_loader.pages)):
         pdf_page = pdf_loader.pages[page_num]
@@ -94,3 +94,7 @@ def send_chunks():
         #response_2 = requests.post(url_insert, headers=headers, json=data_1)
         response_2 = requests.request("POST", url_insert, headers=headers, data=payload2)
         print(response_2.text)
+        file_path = 'embeddings.txt'   
+
+        with open(file_path, 'w') as file: 
+                file.write(response_2.text)

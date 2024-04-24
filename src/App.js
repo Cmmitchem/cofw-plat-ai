@@ -34,9 +34,7 @@ function App() {
   }
   }, []);
 
-  function handleClick () {
-    console.log(inputState)
-  }
+  
   
   
   return (
@@ -53,8 +51,7 @@ function App() {
           COFW Plat Information
         </a>
         <div></div>
-        <textarea onChange={e => setInputState(e.target.value)}></textarea>
-        <button onClick={handleClick}>Sumbit Request</button>
+        
       <Main className="main"></Main>
       </header>
       
