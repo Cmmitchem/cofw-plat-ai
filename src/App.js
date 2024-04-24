@@ -10,28 +10,36 @@ function App() {
   const [inputState, setInputState] = useState('');
 
   const [data, setData] = useState({
-    name: "",
-    date: "", 
-    embeddings: "", 
-    pdf: ""
+    id: "",
+    awards: "", 
+    cast: [], 
+    countries: []
   });
 
+
   useEffect (() => {
-  try{  
-    fetch("http://127.0.0.1:5000/data").then((res) =>
-      res.json().then((data) => {
-      //setting data from the api
-      setData({
-        name:data.Name,
-        date: data.Date, 
-        embeddings: data.Embeddings, 
-        pdf: data.pdf
-      });
-    })
-  );}
-  catch (e){
-    console.log(e, e.stack)
-  }
+    const fetchData = async () => {
+      try{
+        const res = await fetch("http://127.0.0.1:5000/all_movies");
+        const json = await res.json();
+
+        if (json.movies && json.movies.length > 0) {
+          const firstMovie = json.movies[0];
+          setData({
+            id: firstMovie._id.$oid, // Accessing the $oid value
+            awardsText: firstMovie.awards.text, // Accessing the awards text
+            cast: firstMovie.cast, // Accessing all cast members
+            directors: firstMovie.directors // Accessing all directors
+          });
+        }
+
+      } catch (e){
+        console.error("Failed to fetch movies:", e);
+      }
+    };
+
+    fetchData();
+
   }, []);
 
   
@@ -50,8 +58,9 @@ function App() {
         >
           COFW Plat Information
         </a>
-        <div></div>
-        
+        <div>{data.id}</div>
+        <div>{data.awardsText}</div>
+        <p></p>
       <Main className="main"></Main>
       </header>
       
