@@ -13,7 +13,7 @@ from flask_cors import CORS, cross_origin
 #from PDFembedding import load_pdf
 from factory import create_app
 from plats_api import movies_api_v1
-from db import get_movie, get_movies
+from db import get_movie, get_movies, get_plats
 
 #from flask_cors import CORS
 
@@ -176,7 +176,7 @@ def read_json_file(file_path):
         return None
 
 #TESTING MONGODB CONNECTION TO DATABASE
-@app.route('/all_movies', methods=['GET'])
+'''@app.route('/all_movies', methods=['GET'])
 def api_get_movies():
     MOVIES_PER_PAGE = 20
     response ="flask api working"
@@ -193,8 +193,19 @@ def api_get_movies():
     #return("flask api is working")
     #return jsonify(response)
     data = json_util.dumps(response)
+    return json.loads(data)'''
+
+@app.route('/all_plats', methods=['GET'])
+def api_get_plats():
+    (plats) = get_plats(page=0, items_per_page=20)
+
+    response = {
+        "plats": plats,
+    }
+
+    data = json_util.dumps(response)
     return json.loads(data)
-    
+
 
 # Running app
 if __name__ == '__main__':

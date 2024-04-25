@@ -122,3 +122,15 @@ def get_movies(filters, page, movies_per_page):
     movies = cursor.limit(movies_per_page)
 
     return (list(movies), total_num_movies)
+
+def get_plats(page, items_per_page):
+    collection = db["city_of_fort_worth_vector_collection"]
+    #plats = db.city_of_fort_worth_vector_collection.find_one()
+    
+    # Calculate the number of documents to skip
+    #skips = items_per_page * (page - 1)
+    # Use find() to retrieve documents with pagination
+    plats = list(collection.find().limit(items_per_page))
+    
+    return (plats)
+

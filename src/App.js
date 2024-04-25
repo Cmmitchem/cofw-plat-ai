@@ -17,9 +17,10 @@ function App() {
   });
 
 
-  useEffect (() => {
+ /* useEffect (() => {
     const fetchData = async () => {
-      try{
+      
+      try {
         const res = await fetch("http://127.0.0.1:5000/all_movies");
         const json = await res.json();
 
@@ -32,19 +33,36 @@ function App() {
             directors: firstMovie.directors // Accessing all directors
           });
         }
-
-      } catch (e){
+      } catch (e) {
         console.error("Failed to fetch movies:", e);
       }
-    };
-
+    }; 
     fetchData();
+  }, []);*/
 
-  }, []);
+    const fetchData = async () => {
+      
+      try {
+        const res = await fetch("http://127.0.0.1:5000/all_movies");
+        const json = await res.json();
 
-  
-  
-  
+        if (json.movies && json.movies.length > 0) {
+          const firstMovie = json.movies[0];
+          setData({
+            id: firstMovie._id.$oid, // Accessing the $oid value
+            awardsText: firstMovie.awards.text, // Accessing the awards text
+            cast: firstMovie.cast, // Accessing all cast members
+            directors: firstMovie.directors // Accessing all directors
+          });
+        }
+      } catch (e) {
+        console.error("Failed to fetch movies:", e);
+      }
+    }; 
+
+ 
+
+
   return (
     <div className="App">
       <header className="App-header">
@@ -60,6 +78,7 @@ function App() {
         </a>
         <div>{data.id}</div>
         <div>{data.awardsText}</div>
+        <button onClick={fetchData}>Fetch Movie Data</button>
         <p></p>
       <Main className="main"></Main>
       </header>
