@@ -14,6 +14,10 @@ from flask_cors import CORS, cross_origin
 from factory import create_app
 from plats_api import movies_api_v1
 from db import get_movie, get_movies, get_plats
+from dotenv import load_dotenv
+from os import getenv
+import openai
+
 
 #from flask_cors import CORS
 
@@ -94,6 +98,7 @@ def index():
     #return {}
 # functions to upload PDFs to the testfolder on a local machine 
 
+#UPLOAD A FILE AND SEND THE FILE AND PROMPT TO CHATGPT 
 @app.route('/upload', methods=['POST'])
 @cross_origin()
 def fileUpload():
@@ -132,9 +137,9 @@ def fileUpload():
                                }) 
         #load_pdf(destination)
     
-    file_path = 'platList.json'   
+    file_path1 = 'platList.json'   
     try:
-        with open(file_path, 'r') as file:
+        with open(file_path1, 'r') as file:
             data = json.load(file)
             plat_list = data['plat_list']
     except FileNotFoundError:
@@ -146,10 +151,67 @@ def fileUpload():
     
     plat_list.append(file_features_dict)
 
-    with open(file_path, 'w') as file: 
+    with open(file_path1, 'w') as file: 
             json.dump({'plat_list': plat_list}, file, indent=4, sort_keys=True)
+
+    load_dotenv()
+    openai.api_key = getenv('OPENAI_API_KEY')
+
+    #open files and specify file path
+    file_path = f'./pdfUploads/test_docs/{filename}'
+    file_content =""
+    content = ""
+    #initialize an empty string to store the file content
+    try: 
+        with open(file_path, 'r') as file: 
+            #read the entire content of the file into the string
+            file_content = file.read()
+            content = file_content.decode()
+    except FileNotFoundError: 
+        print(f"the file '{file_path}' was not found.")
+    except Exception as e: 
+        print(f"an error occurred: {str(e)}")
     
-    return redirect(url_for('index'))
+    gpt_model="gpt-4-1106-preview"
+
+    prompt = filePrompt + " Here are the files to analyze: " + content
+
+    response = openai.chat.completions.create(
+        model="gpt-4-1106-preview", 
+        messages=[
+            {"role": "user", "content": prompt}
+        ], 
+        temperature=0.7
+    )
+
+    decision = response.choices[0].message.content
+    
+    file_path = 'gptResponses.txt'
+    gpt_model="gpt-4-1106-preview"
+
+    # Get current time
+    now = datetime.datetime.now() # current date and time
+
+    # Open a file in write mode ('w' stands for write)
+    # open a file in append mode ('a' stands for append)
+    with open(file_path, 'a') as file:
+        # Write prompt, GPT model and response to the result file
+        file.write(now.strftime("%m-%d-%Y;%H:%M:%S"))
+        file.write('PROMPT: ' + prompt + '\n')
+        file.write('MODEL:' + gpt_model + '\n\n')
+        file.write('RESPONSE: ' + decision + '\n\n')
+        file.write('-----\n')
+    
+    file_features_dict = dict({'File Path': filename, 
+                                   'Prompt':  filePrompt, 
+                                   'Response': decision,    
+                               }) 
+    response = {
+        'response': decision
+    }
+    return response
+    #return redirect(url_for('index'))
+    
 
 
 def read_json_file(file_path):
@@ -176,7 +238,7 @@ def read_json_file(file_path):
         return None
 
 #TESTING MONGODB CONNECTION TO DATABASE
-'''@app.route('/all_movies', methods=['GET'])
+@app.route('/all_movies', methods=['GET'])
 def api_get_movies():
     MOVIES_PER_PAGE = 20
     response ="flask api working"
@@ -193,7 +255,7 @@ def api_get_movies():
     #return("flask api is working")
     #return jsonify(response)
     data = json_util.dumps(response)
-    return json.loads(data)'''
+    return json.loads(data)
 
 @app.route('/all_plats', methods=['GET'])
 def api_get_plats():

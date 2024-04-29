@@ -37,6 +37,13 @@
   }
 }
 
-.main{
-  margin: 50px;
+.prompt{
+  margin: 10px;
+  height: 100px;
+  width: 500px;
+}
+
+.upload{
+  height: 50px;
+
 }

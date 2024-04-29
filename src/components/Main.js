@@ -36,6 +36,12 @@ class Main extends React.Component {
     });
   }
 
+  handleGenerateResponse(ev){
+    ev.preventDefault();
+    
+
+  }
+
   render() {
     return (
       <div>
@@ -43,11 +49,12 @@ class Main extends React.Component {
           <input ref={(ref) => { this.uploadInput = ref; }} type="file" />
         </div>
         <div>
-          <input ref={(ref) => { this.filePrompt = ref; }} type="text" placeholder="Enter prompt here" />
+          <input ref={(ref) => { this.filePrompt = ref; }} type="text" placeholder="Enter prompt here" className='prompt'/>
         </div>
         <br />
         <div>
-          <button onClick={this.handleUploadImage}>Upload</button>
+          <button onClick={this.handleUploadImage} className='upload'>Upload File</button>
+          <button onClick={this.handleUploadImage} className='upload'>Generate Response</button>
         </div>
         
       </div>
