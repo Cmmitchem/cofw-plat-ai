@@ -16,29 +16,10 @@ function App() {
     countries: []
   });
 
+  const [gptResponse, setGptResponse] = useState({
+    response: ""
+  });
 
- /* useEffect (() => {
-    const fetchData = async () => {
-      
-      try {
-        const res = await fetch("http://127.0.0.1:5000/all_movies");
-        const json = await res.json();
-
-        if (json.movies && json.movies.length > 0) {
-          const firstMovie = json.movies[0];
-          setData({
-            id: firstMovie._id.$oid, // Accessing the $oid value
-            awardsText: firstMovie.awards.text, // Accessing the awards text
-            cast: firstMovie.cast, // Accessing all cast members
-            directors: firstMovie.directors // Accessing all directors
-          });
-        }
-      } catch (e) {
-        console.error("Failed to fetch movies:", e);
-      }
-    }; 
-    fetchData();
-  }, []);*/
 
     const fetchData = async () => {
       
@@ -60,7 +41,22 @@ function App() {
       }
     }; 
 
- 
+    const fetchResponse = async () => {
+      try{
+        const res = await fetch("http://127.0.0.1:5000/upload") 
+        const json = await res.json();
+
+        if (json.plat_list && json.plat_list.length > 0){
+          const latestResponse = json.plat_list[0];
+          setGptResponse({
+            response: latestResponse.Response
+          })
+          console.log(latestResponse.Response)
+        }
+      } catch (e){
+        console.error("Failed to fetch response:", e);
+      }
+    };
 
 
   return (
@@ -76,11 +72,11 @@ function App() {
         >
           COFW Plat Information
         </a>
-        <div>{data.id}</div>
-        <div>{data.awardsText}</div>
-        <button onClick={fetchData}>Fetch Movie Data</button>
         <p></p>
       <Main className="main"></Main>
+      <button onClick={fetchResponse}>Fetch Response</button>
+        <div>{gptResponse.response}</div>
+        
       </header>
       
     </div>
