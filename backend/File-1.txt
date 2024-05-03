@@ -1,0 +1,1027 @@
+  
+ 
+ 
+
+ 
+ 
+  
+ADMINISTRATIVE GUIDELINES 
+FOR THE 
+COMMUNITY FACILITIES AGREEMENTS ORDINANCE 
+ 
+ 
+DEVELOPED BY: 
+PLANNING AND DEVELOPMENT 
+DEVELOPMENT FACILITATION DIVISION DEVELOPMENT COORDINATION 
+JUNE 2019 
+ 
+ 
+ 
+ 
+RANDLE HARWOOD, DIRECTOR OF PLANNING AND DEVELOPMENT D.J. HARRELL. ASSISTANT DIRECTOR JANIE SCARLETT MORALES, DEVELOPMENT MANAGER 
+  
+FOR MORE INFORMATION ON INSTALLATION OF COMMUNITY FACILITIES OR ANY INFORMATION CONTAINED WITHIN THIS GUIDE, PLEASE CONTACT THE PLANNING AND DEVELOPMENT DEPARTMENT'S DEVELOPMENT FACILITATION DIVISION DEVELOPMENT COORDINATION OR THE PROGRAM WEBSITE AT 
+WWW.FORTWORTHTEXAS.GOV/PLANNINGANDDEVELOPMENT/CFA/ 
+ 
+ 
+ 
+DJ HARRELL, ASSISTANT DIRECTOR 
+DALTON.HARRELL@FORTWORTHTEXAS.GOV  (817) 392-8032 
+ 
+JANIE SCARLETT MORALES, DEVELOPMENT MANAGER JANIE.MORALES@FORTWORTHTEXAS.GOV  (817) 392-7810 
+ 
+	ADMINISTRATIVE GUIDELINES FOR THE  	 	 	 	 	 	 	         ii  
+COMMUNITY FACILITIES AGREEMENTS ORDINANCE 
+ 
+TABLE OF CONTENTS 
+1 	Purpose and General Overview...................................................................01 2 	Terms and Definitions..............................................................................02 3 	Infrastructure Plan Review (IPRC) Process....................................................02 4 	Studies..................................................................................................08 5 	Design Standards ....................................................................................09 6 	Community Facilities Agreement.................................................................10     7 	Construction and Final Inspection...............................................................13                         8 	Other Potentially Required Agreements ........................................................14                         9 	General Development Guides and Other Development Resources.............................15                         10 Exhibits................................................................................................18 Exhibit A: Instructions for Flattening Engineering Plans...................................18 Exhibit B: Presubmittal Upload Notice.........................................................19 Exhibit C: 1st Review Upload Notice.............................................................21 Exhibit D: 1st Review Return Transmittal.......................................................23 Exhibit E: Signature Non-Compliance Transmittal..........................................24 Exhibit F: Review Complete Transmittal.......................................................25 Exhibit G: CFA Financial Guarantee Preparation Transmittal...........................26 Exhibit H: Final Preparation Transmittal......................................................27 Exhibit I: Electronic Documents Accepted.....................................................28 Exhibit J: Submit Construction Package Transmittal.......................................29 
+11 Appendices.............................................................................................30 Appendix 1:  Material Testing and Inspection Fee Worksheet..............................30 
+ 
+                                                             
+ 
+ 
+ 	 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADMINISTRATIVE GUIDELINES FOR THE  	 	 	 	 	 	 	         iii  
+COMMUNITY FACILITIES AGREEMENTS ORDINANCE 
+ 
+ 
+ 
+Appendix 2:  How to Apply For a CFA Application Online..................................31 Appendix 3: Bidding and Financial Guarantee Options for City Participation............40 Appendix 4:  Construction Final Inspection Requirements...................................41 Appendix 5:  Examples of CFA Exhibits.........................................................42 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADMINISTRATIVE GUIDELINES FOR THE  	 	 	 	 	 	 	         iv  
+COMMUNITY FACILITIES AGREEMENTS ORDINANCE 
+SECTION 1:  PURPOSE AND GENERAL OVERVIEW  
+ 
+Purpose: The Administrative Guidelines for the Community Facilities Agreements Ordinance ("Guidelines") is enacted for the purpose of administering the Community Facilities Agreements Ordinance. 
+   
+General Overview: There are three components related to Developer construction of Community 
+Facilities:  
+ 
+(1) IPRC Review; 
+(2) CFA Execution; and 
+(3) Construction  
+ 
+Once engineering plans have been approved and confirmed to conform to the City of Fort Worth design criteria, the Developer executes a CFA or other agreement with the City to guarantee construction of Community Facilities. A CFA may include any of several categories of public infrastructure, including but not limited to: streets, sidewalks, street lights, street name signs, traffic signals, storm drainage, park infrastructure, water, and sanitary sewer.  
+ 
+Once the Community Facilities have been constructed, inspected and verified by the City as being complete and compliant with design specifications, the City then accepts ownership and ultimate maintenance of the newly constructed Community Facilities.  After acceptance, the Community Facilities are subject to a two year maintenance bond.    
+ 
+After a CFA has been reconciled and all fees have been collected, the financial guarantees are released and the CFA is closed out.  The CFA Process Flowchart below shows the typical CFA process: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADMINISTRATIVE GUIDELINES FOR THE COMMUNITY 	 	 	 	 	            1  FACILITIES AGREEMENTS ORDINANCE 
+ 
+ 
+
+SECTION 2:  TERMS AND DEFINITIONS 
+ 
+The following terms shall have the meanings ascribed to them in this section.  Any terms in the Guidelines that are not defined in this section shall have the meanings ascribed to them in the CFA Ordinance. 
+ 
+ACCELA. The City's software system that is used for processing development applications and approvals, and communicating with Developers and Design Engineers.  
+ 
+PROJECT MANUAL. The bound book containing documents necessary for the construction of public infrastructure, including, but not limited to, the agreement between the Developer and the Developer's contractors, certificates of insurance, payment bonds, performance bonds, maintenance bonds, standard City conditions of the construction contract, bid proposals, contractor's compliance with workers compensation, table of contents, and other documents required by IPRC. 
+ 
+INSPECTION AND TESTING FEE WORKSHEET. The form used by the City to estimate construction inspection service fees, water testing lab fees, and administrative material testing service fees. 
+ 
+PLAN REVIEW TEAM (PRT).  A group of individuals employed or retained by the City that have specific areas of expertise who review and comment on construction plans, specifications, and other documents submitted to the City for the design and construction of Community 
+Facilities.   
+SECTION 3:  INFRASTRUCTURE PLAN REVIEW PROCESS 
+ 
+A. ROLE OF THE IPRC 
+ 
+The IPRC reviews construction plans (e.g. Pre-Submittal, 1st Review, Compliance Review, etc.) , CFA exhibits, Project Manuals, easement exhibits, and other documents relating to a project.   Additionally, the IPRC assists with reviewing and processing permits and agreements, assists with public bidding when there is City participation in a project, coordinating construction issues, reviews plan revisions, and processes change orders during construction.  
+ 
+B. SUBMISSION OF DOCUMENTS TO IPRC 
+ 
+All documents must be submitted to IPRC in accordance with the instructions provided in these Guidelines or as otherwise instructed by IPRC.   Engineering plans must be flattened in accordance with the instructions provided by IPRC.  Links to websites with instructions are available in Exhibit "A" to these Guidelines.  All files should use the naming conventions provided by IPRC. All pages of drawings submitted to IPRC must be marked "Not for Construction" and include the engineer of record's name, license number and date, except for drawings submitted with the Electronic Document Review Submittal and the Construction Package, which must be signed and sealed by the engineer of record.  
+ 
+C. IPRC APPLICATION 
+ 
+The Design Engineer must complete an IPRC application using Accela.  The application will be reviewed for completeness and accuracy.  If any corrections are required, the Development Coordinator will notify the Design Engineer by email. Once the IPRC application is accepted, instructions for submitting a Pre-Submittal Package to IPRC will be issued to the Design Engineer by an automated email generated by Accela.    
+ 
+D. STANDARD PLAN REVIEW PROCESS 
+ 
+This section outlines the Standard Plan Review process.  
+ 
+1. Pre-Submittal Conference  
+ 
+Upon the acceptance of the Accela application, the Design Engineer will be issued an Accela generated email with instructions regarding the uploading of the Pre-Submittal Package.   Please refer to Exhibit "B" to these Guidelines.  The package includes: one (1) pdf of all Detailed Checklists fully executed and one (1) properly formatted pdf of the entire construction plan set. 
+ 
+The Pre-Submittal Package is required to be fully uploaded into Accela and ready for review by 12:00 pm on Tuesday.  The Design Engineer shall notify the Development Coordinator by email once the package has been uploaded. 
+ 
+For accepted projects, the Design Engineer will be notified via an Accela generated email of the date and time the review comments will be ready and the date and time of the pre-submittal conference. The Design Engineer will be able to enter Accela to access the review comments after 1:30 p.m. the following Tuesday. The pre-submittal conference will be held on the following Thursday two (2) days later. 
+ 
+If corrections are required to the Pre-Submittal Package, an email will be sent to the Design Engineer by an Accela automated email.  The Design Engineer must log into Accela to see the corrections that are required.  
+ 	 
+If the Design Engineer is unable to attend a Pre-Submittal Conference, the Design Engineer must notify the assigned Project Manager and Development Coordinator so the meeting can be rescheduled for a later date.   
+ 
+At the start of the Pre-Submittal Conference, the Design Engineer must provide the IPRC Project Manager with five (5) paper copies of the fully executed Comment Summary Response Table and one (1) full-size (22"x34") paper copy of the original submitted plan set.  A link has been provided in the Pre-Submittal Conference Notice providing instructions to the Design Engineer on how to prepare a Comment Response Summary Table.  Failure to provide the Comment Response Summary Table or the full-size paper copy of the complete plan set will result in the Pre-Submittal Conference being rescheduled for the next available Pre-Submittal Conference date.  
+ 
+ 
+After a successful pre-submittal conference, the Design Engineer will receive an Accela automated First Review Upload Notice, Exhibit "C" stating the required steps to be complied with before submitting for the First Review. 
+ 
+2. Requirements Prior to First Review 
+ 
+Prior to submitting plans for First Review, the following items must be completed by the Design Engineer or Developer: 
+ 
+i. IPRC Engineering Plan Review Fees must be paid; 
+ii. a CFA application must be completed and delivered to the Development Coordination 
+   Office and the CFA application fee must be paid; and iii. final iSWM clearance from Stormwater Development Service must be obtained. 
+ 
+3. First Review 
+ 
+The First Review is the official start of the review process that will eventually lead to the City's acceptance of the project and the project moving to the construction stage. It is a fourteen (14) calendar review that the City assures the Design Engineer shall receive the first review comment within fourteen (14) days. 
+ 
+First Review submittal packages are required to be fully uploaded into Accela by 5:00 pm on Tuesday. 
+Package shall include: 
+ 
+ i. Complete set of a revised construction plan set reflecting changes based on city's pre-
+submittal comments. 
+ ii. The full construction plan set that contains the city first review comments and the design Engineers response to each comment. iii. A complete draft copy of the Project Manual. iv. All applicable CFA exhibits (individual pdfs) 
+v. Easements, permits and agreements (if applicable) 
+vi. Geotechnical report (if applicable) 
+ 
+The Design Engineer must notify the Project Manager and the Development Coordinator by email when the First Review Submittal Package has been uploaded to Accela.  
+ 
+If corrections are required to the First Review Submittal Package, an email will be sent to the Design Engineer.  The Design Engineer must log into Accela to review the reasons why corrections are necessary.   After making the necessary corrections, the Design Engineer must re-submit the First Review Submittal Package to Accela by 5:00 p.m. the following Tuesday.  The Design Engineer must notify the Project Manager and the Development Coordinator by email that the corrected First Review Submittal Package has been upload to Accela.  
+ 
+If the First Review Submittal Package is complete, contains all necessary documents, and addresses all comments received in the Pre-Submittal Conference, it will be accepted by IPRC for review.  Once the First Review Submittal Package is accepted by IPRC, first review comments will be returned to the Design Engineer within 10 business days starting on the Wednesday that the First Review Submittal Package was reviewed by IPRC.  IPRC will upload the comments to Accela and notify the Design Engineer by email that the first review is complete.  IPRC will send the First Review Return Transmittal in Exhibit "D" of these Guidelines to the Design Engineer to prepare for Compliance Review.  
+ 
+The City will prepare the Material Testing and Inspection Fee Worksheet contained in Appendix "1" of these Guidelines and return the worksheet to the Design Engineer with the First Review comments.   
+ 
+4.  Compliance Review 
+ 
+At Compliance Review, the Design Engineer will submit revised plans and other revised documents to IPRC addressing all comments received in the First Review, and incorporating any other necessary design changes.  There is no deadline for submission of Compliance Review documents to IPRC.   
+ 
+The Design Engineer must submit the Compliance Review Submittal Package to IPRC through Accela in accordance with the First Review Return Transmittal.  The Compliance Review Submittal Package consists of the following files: 
+ 
+i. a complete set of revised engineering plans;  
+ii. a revised copy of the Project Manual; 
+iii. the quantity take-off matrix iv. all revised CFA exhibits (individual pdfs)  applicable to the design of the project; v. a geotechnical report; and 
+vi. easement exhibits.  
+ 
+If no revisions are necessary to a particular file in the Compliance Review Submittal Package, a clean copy of the file should be uploaded.  CFA exhibits must be revised if the design of the project has changed. The Design Engineer must notify the Project Manager and the Development Coordinator by email when the Compliance Review Submittal Package has been uploaded to Accela.  
+ 	 
+If corrections are required to the Compliance Review Submittal Package, an email will be sent to the Design Engineer.  The Design Engineer must log into Accela to review the reasons why corrections are necessary.   After making the necessary corrections, the Design Engineer must re-submit the Compliance Review Submittal Package in Accela.  The Design Engineer must notify the Project Manager and the Development Coordinator by email that the corrected Compliance Review Submittal Package has been upload to Accela.  
+ 
+If the Compliance Review Submittal Package is complete, contains all necessary documents, and addresses all comments received in the First Review, it will be accepted by IPRC for review.   
+ 
+Once the Compliance Review Submittal Package is accepted by IPRC, the Project Manager will review the Compliance Review Submittal Package and provide a response to the Design Engineer within 10 business days. 
+If revisions to the Compliance Review Submittal Package are necessary, IPRC will upload comments to Accela and notify the Design Engineer by email that revisions are necessary.  IPRC will also send the Signature Non-Compliance Transmittal in Exhibit "E" to these Guidelines to the Design Engineer by email instructing the Design Engineer to submit a revised Compliance Review Submittal Package to IPRC for an additional Compliance Review.  
+ 
+Once the Compliance Review Submittal Package is approved by IPRC, the Review Complete Submittal Transmittal in Exhibit "F" of these Guidelines will be emailed to the Design Engineer directing the Design Engineer to submit the cover sheet to IPRC.  
+ 
+As part of Compliance Review, the Project Manager will only review easement exhibits. Once easement exhibits have been approved by the Project Manager, the Project Manager will deliver the entire easement documents to the City's Property Management Department for review and approval.  If corrections are necessary, the Project Manager will notify the Design Engineer by email.  The Design Engineer must revise the easements and work with the Project Manager until the easements are approved by the City's Property Management Department.  
+The Design Engineer, or their designee, is not allowed to deliver easements to the City's Property Management Department.  All communications regarding easements should occur between the Design Engineer, or their designee, and the Project Manager. 
+ 
+5.  Review Complete 
+ 
+At the Review Complete stage, the Design Engineer will be instructed by an Accela automated email to deliver a copy of the accepted cover sheet signed and sealed by the engineer of record to the Project Manager for review.  The Project Manager will review the cover sheet to determine if it will be accepted.   
+ 
+If the Project Manager determines that the cover sheet is incorrect, the Project Manager will notify the Design Engineer by email that corrections are required.  The Design Engineer must access Accela to view the comments and then resubmit the cover sheet. 
+ 
+Once the cover sheet is approved by the Project Manager, the City will sign the cover sheet and send the CFA Financial Guarantee Transmittal in Exhibit "G" of these Guidelines to the Design Engineer by email.   
+ 
+6.   CFA Financial Guarantee 
+ 
+At the CFA Financial Guarantee stage, the Design Engineer must deliver the CFA Financial Guarantee Submittal Package to IPRC through Accela in accordance with the CFA Financial Guarantee Transmittal. The CFA Financial Guarantee Submittal Package consists of the following files: 
+ 
+i. executed bid proposals with the contractors' signatures; 
+ii. final CFA exhibits; and 
+iii. Material Testing and Inspection Fee Worksheet. 
+ 
+The Design Engineer must notify the Project Manager by email when the CFA Financial Guarantee Submittal Package has been uploaded to Accela. The Project Manager will review the CFA Financial Guarantee Submittal Package.   
+ 
+If the Project Manager determines that the CFA Financial Guarantee Submittal is incorrect, the Project Manager will notify the Design Engineer by email that corrections are required.  The Design Engineer must access Accela to view the comments and then resubmit the CFA Financial Guarantee Submittal. 
+ 
+The Project Manager will notify the Development Coordination Office when the CFA Financial Guarantee Submittal Package is approved.  The Development Coordination Office will draft the CFA and attach the CFA exhibits and bid proposals to the draft of the CFA.  The Design Engineer will be notified by the Development Coordination Office to submit the financial guarantee for the CFA and to pay the estimated administrative material testing service fees, water testing lab fee, and construction inspection service fees to the City.  Any changes to the CFA or financial guarantee documents may be negotiated between the Developer and the City during this stage of the review process.  Once the CFA has been executed, the Final Preparation Transmittal in Exhibit "H" of these Guidelines will be emailed to the Design Engineer.  
+ 
+7.   Electronic Document Review 
+ 
+After the CFA Financial Guarantee Submittal Package is approved, the Design Engineer must submit the Electronic Document Review Submittal Package to IPRC for approval. The Electronic Document Review Submittal Package consist of the following files: 
+ 
+i. one (1) pdf file of the entire signed and sealed plan set; 
+ii. one (1) pdf of the fully executed Project Manual; 
+iii. a pdf of executed permits, licensed agreements, encroachment agreements, maintenance agreements and storm water maintenance facility agreements necessary for the project; and 
+iv. a pdf of all executed easements; and 
+v. a fully executed CFW Developer Project Proposal Tool. 
+ 
+If the Project Manager determines that the Electronic Document Review Submittal is incorrect, the Project Manager will notify the Design Engineer by email that corrections are required.  The Design Engineer must access Accela to view the comments and then resubmit the Electronic Document Review Submittal. 
+ 
+Once the Electronic Document Review Submittal is approved by the Project Manager, the Electronic Documents Accepted Transmittal in Exhibit "I" of these Guidelines will be sent by an automated Accela email to the Design Engineer notifying them that this review has been completed. The IPRC Project Manager will notify IPRC administrative staff to prepare fund accounts for the Construction Office.  Once this is complete, the IPRC administrative staff will notify Stormwater Development Services by email to proceed with the final steps in preparation of having the Design Engineer submit the Construction Package. 
+ 
+Stormwater Development Services will verify that the final iSWM has been approved.  If corrections are needed to the final iSWM, the Design Engineer will be notified by email that corrections are required. The Design Engineer must access Accela to view the comments and resubmit information necessary for the final iSWM to be approved.  Once the final iSWM is approved, the City will send the Submit Construction Package Transmittal in Exhibit "J" of these Guidelines to the Design Engineer by email. 
+ 
+8.  Construction Package 
+ 
+The Design Engineer must submit the Construction Package Submittal to IPRC for approval before the construction package is distributed. The Construction Package Submittal consists of the following files: 
+ 
+i. a fully executed final iSWM approval form issued by Stormwater Development 
+  Services; ii. fifteen (15) hard copy sets of drawings; 
+iii. six (6) fully executed Project Manuals, with at least three (3) of the books containing original signatures; and 
+iv. executed copies of all easements, permits, license agreements, encroachment agreements, maintenance agreements and storm water maintenance facility agreements necessary for the project. 
+ 
+If the Project Manager determines that the Construction Package is incorrect, the Project Manager will notify the Design Engineer by email that corrections are required.  The Design Engineer must access Accela to view the comments and then resubmit the Electronic Document Review Submittal. 
+ 
+After the Construction Package is approved by the Project Manager, the Project Manager will have the signed engineering plans and the executed Project Manuals delivered to the Construction Office for a pre-construction meeting to be scheduled.  The City's Construction Office will send the pre-construction notice to the Project Manager, contractors, utility companies, and other necessary entities.  
+ 
+E.   EXPRESS CFA REVIEW PROCESS 
+ 
+The Express CFA Review Process will follow the same procedures as the Standard Plan Review Process, except that the Pre-Submittal Review will serve as the First Review.   
+ 
+SECTION 4: STUDIES 
+ 
+A.  WATER/WASTEWATER LOADING ANALYSES AND/OR COMPREHENSIVE STUDIES  
+ 
+Are required to evaluate the adequacy of the planned and existing water and wastewater facilities for present and future needs. Water Department Staff will determine whether a Loading Analysis or Comprehensive Study will be required. 
+ 
+A Loading Analysis consists of providing a general overall exhibit describing how the proposed water/wastewater improvements connect to the existing water/wastewater system accompanied with demand and loading calculations. A Comprehensive Study consists of performing a more detailed hydraulic analysis and is summarized in a formal report describing the project's purpose, scope, design criteria, hydraulic analysis, and recommendations. For more detailed information, refer to the Installation Policy and Design Criteria for Water, Wastewater, and Reclaimed Water Infrastructure. 
+ 
+B.  STORM WATER STUDY 
+ 
+An engineering assessment of existing site drainage conditions and a plan for site grading and drainage facility construction is required to be submitted to the City for review and approval in order to protect the property being developed/redeveloped from flooding. This plan is also required to preclude adverse drainage impact (as defined by the City of Fort Worth Stormwater Criteria Manual) to other properties in the same drainage area, as a result of additional runoff created by the new or re-development project. This site-specific assessment shall be required to be submitted to the Stormwater Division of the Transportation and Public Works Department. The standards for the drainage assessments and criteria for determining adverse impact are defined by the City of Fort Worth Stormwater Criteria Manual. 
+ 
+SECTION 5: DESIGN STANDARDS 
+ 
+All engineering plans must be designed in accordance with state and federal law, and with all applicable City policies, design specifications, and design standards, including but not limited to the: 
+ 
+A. SUBDIVISION ORDINANCE  
+ 
+The City of Fort Worth Subdivision Ordinance applies to the subdivision of land within the City limits and the Extraterritorial Jurisdiction (ETJ). The Ordinance guides the land development process and protects the public from inferior and undesirable development practices. The Ordinance governs the dedication and construction of new streets, alleys, driveways, easements, drainage facilities, street lighting, lots, blocks, and parks as a condition of development. 
+ 
+B. TRAFFIC ENGINEERING MANUAL  
+ 
+The Traffic Engineering Manual defines the design requirements for transportation infrastructure. The manual is intended for use as a professional design resource by the City, community groups, and any individuals or groups involved in the planning and design of the City's street network. 
+ 
+C. MASTER THOROUGHFARE PLAN 
+ 
+The Master Thoroughfare Plan is the long range plan for major transportation facilities such as arterial roads for the City.   
+ 
+	D. INSTALLATION 	POLICY 	AND 	DESIGN 	CRITERIA 	FOR 	WATER, 
+WASTEWATER, AND RECLAIMED WATER INFRASTRUCTURE 
+ 
+The Installation Policy and Design Criteria for Water, Wastewater, and Reclaimed Water Infrastructure establishes the policies and procedures governing facilities as well as design criteria for water, wastewater, and reclaimed water systems to assist engineers in preparing designs for the construction of these facilities. These policies, procedures, and guidelines are applicable to engineering, planning, and design work performed by the Water Department, engineering firms engaged by the City, or by other public or private interests. Deviations from policies, procedures, and design criteria will not be acceptable without prior approval from the Water Department. 
+ 
+E. ACCESS MANAGEMENT POLICY 
+ 
+The Access Management Policy provides for the coordinated planning, regulation, and design of access between roadways and land development. The purpose of the Access Management Policy is to provide for and manage access to land development, while preserving the regional flow of traffic in terms of safety, capacity, and speed.  The Access Management Policy applies to all roadways and roadway rights-of-way (public and private) within the City of Fort Worth, as well as to all properties within the City that abut these roadways.  
+ 
+F. NEIGHBORHOOD AND COMMUNITY PARK DEDICATION POLICY 
+ 
+New residential development or an increase in density by redevelopment in existing neighborhoods creates the need for additional park and recreation facilities. The Park Dedication policy ensures the provision of adequate park and recreational areas with needed facilities in the form of Neighborhood Parks and Community Parks. On occasion, certain public park improvements may be required by the City to be constructed under a CFA. 
+ 
+G. FORM BASED CODES 
+ 
+The City has urban design districts ranging from Design Overlays to Form-Based Districts. These districts often require public right-of-way improvements including pedestrian lights, sidewalks, and street trees. Triggers for improvements vary by district. 
+ 
+H. STORMWATER CRITERIA MANUAL 
+ 
+The Stormwater Criteria Manual describes the basic engineering design standards and minimum criteria applicable to drainage infrastructure design, and notes the process links between review of IPRC plans and the Storm Water Management Plan (SWMP). The manual also defines the SWMP and describes the methods and process for evaluating the impact of new/re-development on drainage conditions on the site and in the surrounding drainage area. The manual defines how the City assesses that impact and what criteria must be met in order to preclude adverse drainage impact as defined by the manual. The engineering analysis in the SWMP informs the storm drain system design in the IPRC plans; the two sets of engineering documents should be consistent. 
+ 
+The overarching goals of the standards and process outlined by the manual are to: 
+ 
+1. Regulate discharge from the site to minimize downstream bank and channel erosion.  
+ 
+2. Control runoff within and from the site to minimize flood risk to people and properties for the conveyance storm runoff as well as the flood mitigation storm runoff. 
+ 
+I.  UTILITY CONSTRUCTION POLICY 
+ 
+The Utility Construction Policy ensures that street closures are effectively managed, disruptions to traffic flow are minimized, and proper repair to street pavement while allowing for utility construction and maintenance. 
+ 
+SECTION 6: COMMUNITY FACILITES AGREEMENT 
+ 
+Community Facilities Agreements ensure that developments are adequately served by public infrastructure and that the public infrastructure is constructed according to City standards.   
+ 
+A CFA may include several categories of infrastructure, including but not limited to, streets, sidewalks, street lights, street name signs, traffic signals, storm drainage, park infrastructure, water, and sanitary sewer.  
+ 
+A. CFA APPLICATIONS 
+ 
+A completed CFA application packet is to be submitted to the Development Coordination Office electronically through Accela. A complete application package includes the following: 
+ 	 
+1. a completed CFA application executed by developer; 
+2. CFA exhibits for each category of public infrastructure; 3. bid cost estimates for each category of public infrastructure; and 
+4. signature authority documents. 
+ 
+The CFA Application is not complete until the CFA application fee has been delivered to the Development Coordination Office. Checks must be made payable to the City of Fort Worth, attention Development Coordination Office. The CFA application is routed by the Development Coordination Office to the City Manager's office for review and approval. The process outlined in this subsection also applies to CFAs executed based on an engineer's estimate of construction costs. 
+ 
+The instructions in Appendix 2 of these Guidelines describe how the Design Engineer or Developer can submit a CFA Application to the City through Accela. 
+ 
+B. BIDDING AND FINANCIAL GUARANTEE OPTIONS FOR CITY PARTICIPATION 
+ 
+The chart contained in Appendix 3 of these Guidelines provides the options available relating to bidding and financial guarantees for CFAs with City Participation. 
+ 
+C.  CFA AGREEMENT 
+ 
+This subsection outlines the process for getting a CFA executed. 
+ 
+1. Exhibits & Bid Proposal Upload 
+ 
+CFA exhibits and bid proposals are uploaded to the IPRC record in Accela by the Design Engineer and received, reviewed, and approved by the Project Manager as outlined in these Guidelines. 
+ 
+2. Notification of Exhibits & Bid Proposal 
+ 
+Electronic notification is sent to the Development Coordination Office from IPRC once final CFA exhibits and bid proposals have been approved and uploaded in Accela by the Project Manager. 
+ 
+3. Draft CFA 
+ 
+A CFA is drafted and is sent to the Design Engineer electronically with the following list of items that must be submitted to the Development Coordination Office: 
+ 
+i. acceptance by the Developer of the draft CFA; 
+ii. the financial guarantee; 
+iii. payment of estimated construction inspection service fees, estimated administrative material testing services fees, and estimated water testing lab fees; and 
+iv. signature authority documents. 
+ 
+4. Routing CFA for Execution 
+ 
+The Development Coordination Office routes the CFA for approval and/or signatures electronically as follows: 
+ 
+i. Design Engineer approval; 
+ii. Developer as signer; 
+iii. Escrow Agent as signer if applicable for the financial guarantee; 
+iv. Development Coordination Office as signer; 
+v. Development Coordination Office Manager as signer; 
+vi. Assistant City Attorney as signer; 
+vii. Assistant City Manager as signer; and 
+viii. City Secretary as attester 
+ 
+5. CFA Filed at City Secretary's Office 
+ 
+The City Secretary's Office files the CFA and assigns it a City Secretary Contract Number.  
+ 
+6. Notification to IPRC and Design Review Committee 
+ 
+IPRC, Water Department, and TPW engineering staff are notified of CFA execution. This allows any CFA plat holds to be removed. All other plat comments must be cleared before the plat can be filed.  Once the plat is filed and recorded, building permits may be applied for and  issued. Plats will be held if the financial guarantee for the CFA is a Completion Agreement. The Developer's contractor coordinates with the City's Construction Office to begin work on the public improvements subject of the CFA. 
+D. CLOSING A CFA  
+ 
+1. The Development Coordination Office will reconcile the CFA in accordance with the CFA Ordinance. 
+ 
+2. A financial guarantee release letter will be mailed by certified mail to the Surety Company or financial institution. 
+ 
+3. The Developer will be sent a copy of the financial guarantee release letter by email. 
+ 
+4. If the CFA has a Completion Agreement as the financial guarantee, Development Coordination Office staff will notify City Departments to clear plat holds related to CFA. 
+ 
+SECTION 7:  CONSTRUCTION AND FINAL INSPECTION 
+ 
+A. CONTRACTOR PRE-QUALIFICATION 
+ 
+Prequalification requirements are available upon request from the Water Department and the Department of Transportation and Public Works. 
+ 
+B. CONSTRUCTION NOTICE 
+ 
+Developer must post a construction notice when construction activities in the right-of-way will impact traffic.   The notice must be printed on stock paper 110 lb. or heavier, 8 1/2" X 11" sheets single sheets or on 8 1/2"X11" perforated door hanger sheets.  The message must include the developer or contractor name and telephone number. The notice must be distributed to all doors located within 300 feet of construction or as determined by project manager. 
+ 
+C.  ADMINISTRATION OF THE CONSTRUCTION CONTRACT 
+ 
+Construction must be completed in accordance with City standards and within term of the CFA. Once the Community Facilities have been completed, the final inspection may be requested.   The final inspection will be scheduled within ten business days after contractor provides written notice to the Construction Inspector that the Community Facilities have been completed. 
+ 
+Once the Community Facilities pass the final inspection and the Developer has submitted the documents required for project closeout set forth in the CFA Ordinance, the greensheet process is initiated by Construction Office.  The complete greensheet package is routed to the Development Coordination Office so that the CFA may be reconciled and closed. 
+ 
+The requirements for final inspection are contained in Appendix 4 of these Guidelines. 
+ 
+D. CHANGE ORDERS 
+ 
+Change orders must be sent to the City through Accela.  The Design Engineer must prepare a draft of the change order and send the change order to the Project Manager by email.  The Project Manager must review and approve the change order.  If revisions are necessary, the Project Manager will notify the Design Engineer by email.  Once approved by the Project Manager, the change order will be routed for execution.  Change orders will be routed electronically for signature if there is no City Participation in the Project.  If there is City Participation in the Project, the change order will be routed through the sponsoring department.  If City Council approval is necessary, the change order will not be executed by the City until the City Council has approved the change order. 
+ 
+E.  FLOWCHART FOR CLOSING A CFA 
+ 
+ 
+ 
+SECTION 8:  OTHER POTENTIALLY REQUIRED AGREEMENTS 
+ 
+The following agreements may be necessary in addition to a CFA: 
+ 
+A. Encroachment Agreement 
+ 
+Encroachment is when any privately owned physical object projects into the City's right-of-way and/or City-owned easements. The physical object can include any portion of a building, including an awning or a fence, for example. It can also include signs and conduits. 
+ 
+The Planning and Development Department Director may authorize all encroachments into public Right-of- Way or City-owned easements, with the exception of encroachment requests that fall under the category of "Major Encroachments." Major Encroachments are defined as building structures on, above, or below public Right-of-Way. Major Encroachment requests must go to the City Council for approval. 
+ 
+B. Maintenance Agreement 
+ 
+Occasionally, developers wish to install public improvements that are enhanced beyond the City's standard specifications. Examples of enhanced public infrastructure include stamped and/or colored concrete sidewalks, up-lights within the sidewalks or intersections, designs in the street paving, etc. 
+ 
+These types of requests shall be evaluated on a case-by-case basis. If approved for construction, the Developer must execute with the City a Maintenance Agreement for the enhancements. This agreement generally states that the Developer shall maintain the improvement to the enhanced standard and that the City is only responsible for maintaining and/or replacing the enhanced improvements to the City standard specification. 
+ 
+C. Storm Water Facility Maintenance Agreements 
+ 
+The Storm Water Facility Maintenance Agreement (SWFMA) is a contract between the City and landowner that defines private maintenance responsibilities for a storm water or a drainage facility.  A SWFMA is required for all storm water detention facilities that are subject to the City's storm water review, as well as other storm water or drainage facilities that convey public runoff and will be privately maintained. In addition to detention ponds, a SWFMA may be required for channels, retaining walls, water quality devices, private drive crossing of public channels, or other non-standard drainage systems that would be privately maintained. 
+ 
+D. Adopt-A-Median Agreement 
+ 
+For future additions, alterations, improvements, and maintenance of medians, parkways, right-of- ways, and roundabouts, developers must enter into an Adopt-A-Median Agreement with the City. Plans for all services, planting materials, and irrigation are reviewed by various Park and Recreation Department staff to ensure areas (e.g., trees, grass, plants, shrubs, irrigation systems, etc.) meet the City's standard specifications as well as adhere to the Water Conservation/ Rationing procedures and guidelines for landscaping. The Park and Recreation Department Director approves any additions, alterations, or improvements with the services to be provided in the agreement. 
+ 
+E. Forestry Tree Removal Permits 
+ 
+Tree removal permits are required when existing trees in the right-of-way must be removed to clear way for public improvements. This permit is issued by the City's Forester. 
+ 
+SECTION 9:  GENERAL DEVELOPMENT GUIDES AND OTHER DEVELOPMENT RESOURCES 
+ 
+A. Development Process Tree 
+ 
+The first piece of the Development Process Tree is a nine-step master tree that provides users with an overview of the overall development process. The master tree is outlined in step-based "swim lanes," allowing users to choose the right starting point in the overall process and anticipate what steps must be completed for their development. 
+The master tree, and each individual process, contains color- and shape-coded steps to help illustrate a path through the development process. Users can view white "double boxed" buttons that provide the user with a more in-depth look at that specific step's process. Staff has also embedded links (purple boxes) which will provide users with extra information about each process step, applications, and fee information at various points of the process. Step 1: Pre-Development Process Step 2: Zoning Change 
+1. Zoning Change Typical Process 
+ 
+Step 3: Platting 
+1. Concept/Preliminary Plat Typical Process 
+2. Replat, Minor, Final Plat Typical Process 
+ 
+Step 4: Waivers for Urban Forestry and Zoning Special Districts 
+1. Urban Forestry Typical Process 
+2. Zoning Special District Typical Process 
+ 
+Step 5: IPRC, CFA, and Construction 
+1. Infrastructure Plan Review Center (IPRC) Typical Process 
+2. Community Facilities Agreement (CFA) Typical Process 
+3. Construction/Greensheet Process 
+ 
+Step 6: Grading Permits 
+1.  Grading Permits Typical Process 
+ 
+Step 7: Building Permits 
+1.  Building Permits Typical Process 
+ 
+Step 8: Variance or Special Exception 
+1.  Board of Adjustment Typical Process 
+ 
+Step 9: Inspections 
+1. Inspections Typical Process 
+2. Limited Certificate of Occupancy (LCO) Typical Process 
+B.  Pre-Development Conference 
+Pre-Development Conferences with City staff are offered for applicants to learn more about City development policies and procedures and to address site-specific issues.  
+ 
+These meetings are meant to be a "discovery"-type meeting designed to help developers in their project due diligence. These meetings cannot serve as comprehensive question and answer sessions; rather, they are useful in uncovering potential issues, creating a common understanding amongst all City departments, and helping to streamline the development process. 
+ 
+Representatives from development-related City departments such as Transportation and Public Works, Water, Planning and Development, and Fire are present to evaluate the project to aid the Developer in their project planning. 
+ 
+Public improvements (constructed under a CFA) are typically a condition of plat approval generated during the subdivision review process. However, other development review processes may require the installation of public infrastructure as a condition of project approval. 
+ 
+The general guidance regarding public improvements that will likely be required for a proposed project can often be provided to a developer and their consultants at an optional Pre-Development Conference. These meetings are typically held while a proposed project is in the due-diligence phase and before any formal development applications have been made to the City.  
+ 
+C.  Subdivision of Land (Platting) 
+ 
+The City of Fort Worth Subdivision Ordinance applies to the subdivision of land within the City limits and the Extraterritorial Jurisdiction (ETJ). The Ordinance guides the land development process and protects the public from inferior and undesirable development practices. The Ordinance governs the dedication and construction of new streets, alleys, driveways, easements, drainage facilities, street lighting, lots, blocks, and parks as a condition of development. 
+ 
+Requests for the subdivision of land are submitted to the Platting and Annexation Section of the Planning and Development Department. During the review process, plats are sent to the corresponding county and school districts, the Trinity Metro, and appropriate utility companies. The Development Review Committee (DRC), comprised of City staff and Tarrant County staff determine whether a plat is in conformance with the Subdivision Ordinance. Part of this determination is a calculation of the rough proportional share of public improvements caused by a subdivision of land and a determination of the specific public improvements required to be constructed under a CFA as a condition of plat approval. 
+ 
+D. Building Permit Review in Certain Design Districts and Overlays 
+The City has adopted certain design districts that may require the installation of certain public improvements as a condition of development plan approvals. These public improvements may be required regardless of whether the property is being platted or not. For example, some districts require the installation of pedestrian street lamps for certain types of developments as a condition of project approval and building permit issuance. This type of public improvement would require the execution of a CFA. 
+ 	 
+E. Redevelopment 
+ 
+Development of infill lots or redeveloping property may trigger a requirement to install new public improvements and/or replace existing infrastructure that is deemed to be substandard to current City specifications (due to age, material, size, condition, etc.). These types of public improvements may prompt the need for City participation. 
+  
+ 
+ 
+ 
+EXHIBIT A 
+ 
+INSTRUCTIONS FOR FLATTENING ENGINEERING PLANS 
+ 
+ 
+Instructions for flattening pdf files for engineering plans are available at the following links: 
+ 
+https://knowledge.autodesk.com/support/autocad/troubleshooting/caas/sfdcarticles/sfdcarticles/PDFscreated-using-AutoCAD-s-PDF-driver-are-flattened-when-printed-from-Adobe-Acrobat-or-Reader.html 
+ 
+https://knowledge.autodesk.com/support/autocad/troubleshooting/caas/sfdcarticles/sfdcarticles/Draw ing-text-appears-as-Comments-in-a-PDF-created-by-AutoCAD.html 
+  	 
+
+EXHIBIT B 
+ 
+PRESUBMITTAL UPLOAD NOTICE 
+ 
+ 
+Upon completion of the Infrastructure application, you can login to Accela using your assigned project Record Number to access your project. 
+ 
+You may now upload your presubmittal package.  The deadline for uploading is Tuesday at 12:00 p.m.  Please note the submittal will not be accepted unless complied with. 
+______________________________________________________________________________ 
+ 
+Required Naming Convention 
+All submittal documents are required to use the prefix 'Presub' in front of the document type. 
+ 
+i.e. Presub Plan Set 
+      Presub Detailed Checklists 
+_____________________________________________________________________________ 
+ 
+Project Upload 
+Upload only the two pdf files identified below. Any additional documents may cause the submittal to be delayed or not accepted. 
+ 
+The following items must to be uploaded under the 'Pre-Submittal Package' Virtual Folder. 
+ 
+• One (1) pdf file of the entire plan set. Pdf files have to be flattened. 
+When you finish editing all the layers in your image, merge or flatten layers to reduce the file size. Flattening combines all the layers into a single background layer. The first number represents what the file size would be if you flattened the image. 
+ 
+For additional information click on the following links or cut and paste into your browser: 
+ 
+https://knowledge.autodesk.com/support/autocad/troubleshooting/caas/sfdcarticles/sfdcarticles/ Drawing-text-appears-as-Comments-in-a-PDF-created-by-AutoCAD.html 
+  
+https://knowledge.autodesk.com/support/autocad/troubleshooting/caas/sfdcarticles/sfdcarticles/ PDFs-created-using-AutoCAD-s-PDF-driver-are-flattened-when-printed-from-Adobe-Acrobator-Reader.html  
+ 
+• One (1) pdf file of all executed Detailed Checklists. The IPRC utilizes Detailed Checklists to inform the consultant of the required information that is to be included for each design component. If a particular checklist item is not applicable to your project you still need to execute the checklist by indicating N/A and include it. 
+ 
+ 
+ 
+ 
+ 
+For access to the Detailed Checklist click on the following link or cut and paste into your browser. 
+ 
+ 
+https://projectpoint.buzzsaw.com/fortworthgov/Resources/30%20-
+%20New%20Development%20Resources/Detailed%20Checklists?public  
+ 
+Notify the IPRC Coordinator, Dennis Sallis at dennis.sallis@fortworthtexas.gov when the upload has been completed. 
+______________________________________________________________________________ 
+ 
+IMPORTANT 
+In compliance with the Texas Board of Professional Engineers, all plan sheets submitted shall include two (2) important pieces of information: 
+ 
+1. The firm's name and the firm's registration number 
+ 
+2. A stamp displaying its intended purpose. For example, a sheet under review shall read something similar to 'For Review Only'. This stamp shall also include the Engineer of Record's name, license number and date. 
+ 
+ 
+ 	 
+EXHIBIT C 
+ 
+1st REVIEW UPLOAD NOTICE 
+ 
+You may now begin preparing for the 1st Review submittal package upload. 
+The deadline for uploading is Tuesday at 5:00 p.m. 
+NOTE: if any item identified below is not complied with, the submittal package will be deemed as unacceptable. 
+_____________________________________________________________________________________ City Comments are located inside the originally submitted pdf file. 
+Consultant shall respond to every presubmittal City comment. Your Response Comments shall be located inside the originally submitted pdf file using the color Blue next to the Red City comment. _____________________________________________________________________________________ The following three (3) items are required to be completed before Accela will allow the 1st Review Submittal package to be uploaded. 
+• Submitted/Paid your CFA Application and Fee 
+• Paid your Plan Review Fee 
+• Submitted your Final iSWM and received acceptance from Stormwater Development Services (SDS). 
+_____________________________________________________________________________________ 
+ 
+Required Naming Convention 
+All submittal documents are required to use the prefix '1st Review' in front of the document type. i.e. 1st Review Plan Set 
+      1st Review Project Manual 
+      1st Review CFA Exhibits. Separate pdf's. 
+      1st Review Geotech Report 
+ 
+Submittal will not be accepted unless complied with. 
+_____________________________________________________________________________________ 
+ 
+Project Upload 
+Upload only the pdf files identified below. Any additional files/documents may cause the submittal to be delayed or not accepted 
+ 
+The following items must to be uploaded under the '1st Review Package' Virtual Folder. 
+ 
+• Revised pdf file of the entire plan set 
+• Draft copy of the Project Manual in pdf format. Use the 'Project Manual Assembly' document in the Resources | Specifications and Contract Document section for the preparation of the Project Manual. NOTE: In the bid proposal section all standard item descriptions are required. Quantities are not required at this time. If available please provide. (Revise the coversheet and strike out all items not applicable in the Index). 
+• CFA Exhibits - Consultant shall prepare a separate 8.5 x 11 pdf exhibit for each category listed as follows; Location Map (1), Exhibit A - Water, (1), Exhibit A1 - Sewer (1), Exhibit B - Paving 
+(1), Exhibit B1 - Storm Drain (1), Exhibit C1 - Street Lighting, Traffic, Signals, Street Names Signs, Traffic signs (1). 
+ 
+ 
+ 
+• Geotechnical Report - a geotechnical report for Pavement Design in Accordance with the City of Fort Worth Pavement Design Manual is required for all new streets constructed or as required for rehabilitation of existing streets. A geotechnical report is not required if only permanent trench repairs are made after the infrastructure is installed. 
+ 
+Notify your IPRC Coordinator and Project Manager once the 1st Review Package upload has been completed. 
+_____________________________________________________________________________________ 
+ 
+IMPORTANT 
+In compliance with the Texas Board of Professional Engineers, all plan sheets submitted shall include two (2) important pieces of information: 
+3. The firm's name and the firm's registration number 
+4. A stamp displaying its intended purpose. For example, a sheet under review shall read something similar to 'For Review Only'. This stamp shall also include the Engineer of Record's name, license number and date. 
+ 	 
+
+EXHIBIT D 
+ 
+1st REVIEW RETURN TRANSMITTAL 
+ 
+This project is ready for revision. 
+______________________________________________________________________________ City Comments are located inside the originally submitted pdf file. 
+Consultants shall respond to every 1st Review city comment. Your response comments shall be located inside the originally submitted pdf file using the color Blue next to the Red City comments. 	 
+______________________________________________________________________________ 
+Required Naming Convention 
+All submittal documents are required to use the prefix 'Rev1' in front of the document type. i.e. Rev1 Plan Set       Rev1 Project Manual 
+      Rev1 CFA Exhibits 
+      Rev1 Geotech Report 
+ 
+Submittal will not be accepted unless complied with. 
+_____________________________________________________________________________________ 
+ 
+Project Upload 
+Upload only the pdf files identified below. Any additional files/documents may cause the submittal to be delayed or not accepted 
+ 
+The following items must to be uploaded under the 'Compliance Review Package - (Rev1)' Virtual Folder. 
+ 
+• Revised pdf file of the entire plan set 
+• Revised Project Manual per the comments provided 
+• Revised CFA Exhibits. Separate pdf's. 
+• Quantity Take-off Matrix in Excel form.   
+• Revised Geotechnical Report - (if required) 
+• Easement Exhibits(s) along with the meets and bounds in Word Document format (if required)  
+ 
+Notify your Project Manager once the Compliance Review Package upload has been completed. 
+  	 
+EXHIBIT E 
+ 
+SIGNATURE NON-COMPLIANCE TRANSMITTAL 
+ 
+This project has been reviewed and found to be incomplete 
+______________________________________________________________________________ City Comments are located inside the originally submitted pdf file. 
+Consultants shall respond to every city comment. Your response comments shall be located inside the originally submitted pdf file using the color Blue next to the Red City comments. 	 ______________________________________________________________________________ Required Naming Convention 
+All submittal documents are required to use the prefix 'Rev2' in front of the document type. i.e. Rev2 Plan Set       Rev2 Project Manual 
+      Rev2 CFA Exhibits 
+      Rev2 Geotech Report 
+ 
+Submittal will not be accepted unless complied with. 
+ 
+Note: For any subsequent reviews that go beyond 'Rev2, please update all revised documents and virtual folders to reflect the same naming convention, but utilizing the next sequential number (i.e.  'Rev3....') 
+______________________________________________________________________________ 
+ 
+Project Upload 
+Upload only the pdf files identified below. Any additional files/documents may cause the submittal to be delayed or not accepted 
+ 
+The following items must to be uploaded under the 'Compliance Review Package - (Rev-2)' Virtual Folder. 
+ 
+• Revised pdf file of the entire plan set 
+• Revised Project Manual per the comments provided 
+• Revised CFA Exhibits. Separate pdf's • Revised Geotechnical Report - (if required) 
+• Quantity Take-off Matrix in Excel form.   
+• Easement Exhibits(s) along with the meets and bounds in Word Document format (if required)  
+ 
+Notify your Project Manager once the Compliance Review Package upload has been completed. 
+ 
+ 
+ 
+EXHIBIT F 
+ 
+	 	REVIEW COMPLETE TRANSMITTAL 
+ 
+ 
+The review for this project has been completed. 
+ 
+Deliver the mylar cover sheet to your IPRC project manager. 
+ 
+The delivered mylar cover sheet shall match the cover sheet that was accepted after the final review by the Project Manager and will be checked for final cover sheet compliance. 
+ 
+You will be notified when to pick up the signed mylar cover sheet.  
+ 
+  	 
+
+EXHIBIT G 
+ 
+CFA FINANCIAL GUARANTEE PREPARATION TRANSMITTAL 
+ 
+The cover sheet is ready to be picked up.  You may now upload your CFA Financial Guarantee Package. 
+______________________________________________________________________________ 
+Required Naming Convention 
+All final submittal documents are required to use the prefix 'FinalDocs' in front of the document type. e.g. FinalDocs CFA Exhibits 
+ 
+Submittal will not be accepted unless complied with. 
+_____________________________________________________________________________________ 
+ 
+Project Upload 
+Upload only the pdf files identified below. Any additional files/documents may cause the submittal to be delayed or not accepted 
+ 
+The following items must be uploaded under the "CFA Financial Guarantee Package" Virtual Folder. 
+ 
+• Executed Bid Proposal with contractor's signature. 
+• Final CFA Exhibits. Separate pdf's. 
+ 
+ 
+Notify your Project Manager once the CFA Financial Guarantee Package upload has been completed. 
+ 
+  	 
+EXHIBIT H 
+ 
+FINAL PREPARATION TRANSMITTAL 
+ 
+You may now upload your Electronic Documentation Package. 
+______________________________________________________________________________ 
+Required Naming Convention 
+All final submittal documents are required to use the prefix 'FinalDocs' in front of the document type. e.g. FinalDocs Plan Set        FinalDocs Project Manual 
+       FinalDocs Geotech Report 
+ 
+Submittal will not be accepted unless complied with. 
+_____________________________________________________________________________________ 
+ 
+Project Upload 
+Upload only the pdf files identified below. Any additional files/documents may cause the submittal to be delayed or not accepted 
+ 
+The following items must be uploaded under the "Electronic Documentation Package" Virtual Folder. 
+ 
+• One (1) pdf file of the entire signed plan set. The pdf file must be signed and sealed. Only black lines with white background drawings will be accepted. 
+• One (1) pdf of the fully executed Project Manual. Note: The Construction Package requires three (3) of the six (6) Project Manuals to have original signatures. 
+• Pdf of executed Permits and Agreements. 
+• Pdf of Easements. The owners signature block must be signed. 
+• Fully executed CFW Developer Project Proposal Tool. (Please note that you will be required to access the Accela Citizen Access (ACA) portal and select the "CFW Developer Project Proposal Tool" application to execute the tool). 
+ 
+Notify your Project Manager once the Electronic Documentation Package upload has been completed. 
+ 
+ 
+ 
+  	 
+EXHIBIT I 
+ 
+ELECTRONIC DOCUMENTS ACCEPTED 
+ 
+Your Electronic Document Package has been reviewed and accepted. 
+______________________________________________________________________________ You will be notified when to submit your Construction Package. 
+ 
+ 
+  	 
+
+EXHIBIT J 
+ 
+SUBMIT CONSTRUCTION PACKAGE TRANMITTAL 
+ 
+ 
+Your next submittal will be the Construction Package. 
+_____________________________________________________________________________  
+ 	 
+The consultant is required to present a fully executed Final iSWM Approval Form issued by the Stormwater Development Services upon delivery of the construction Package to the IPRC. 
+ 
+Without this form, the Construction Package will not be accepted. 
+______________________________________________________________________________ 
+ 
+The consultant shall deliver the following hard copies to the IPRC:  
+• Fifteen (15) sets of drawings. 
+• Six (6) fully executed Project Manuals. Minimum three (3) with original signatures. 
+• Executed copies of all easements, agreements and permits. 
+ 
+NOTE: If an error is found with the construction package, the construction material will not be distributed until both construction package and the electronic information have been corrected. 
+  	 
+
+     APPENDIX 1 
+  
+ 
+APPENDIX 2 
+ 
+               
+How to Process a CFA Application Online 
+ 
+You will need the following items to successfully apply for a CFA on Accela Citizen Access: 
+1. PDF files for each of the following items: 
+a. CFA Application which can be found online at http://fortworthtexas.gov/planninganddevelopment/cfa/ 
+b. Preliminary CFA exhibits 
+c. Vicinity Map / Site Plan 
+2. Specific Information for your project 
+1. Go to the online permitting website ("ACA") by visiting https://accela.fortworthtexas.gov/citizenaccess/ 
+ 
+2. Once on the homepage, you will need to log in OR create a new account if you haven't done so 
+**Visit https://www.youtube.com/watch?v=90TdkAehyJs&feature=youtu.be for a video tutorial on how to register** 
+ 
+3. Once logged in, you will hover over the "more" tab and select "Infrastructure" 
+
+4. Select "Create an Application" 
+
+
+5. Read and acknowledge the disclaimer then select "Continue Application" 
+ 
+6. Select your license from the drop down menu (Note: These were added upon original creation of your account) then select "Continue Application" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADMINISTRATIVE GUIDELINES FOR THE  	 	 	 	 	 	 	         32  
+COMMUNITY FACILITIES AGREEMENTS ORDINANCE 
+ 
+9. Add a contact for the Consultant and Developer (required) by selecting "Select from Account" or "Add 
+ 
+10. To Select from Account: 
+i. Click "Select from Account" 
+ 
+ 
+ii. Select the Contact you wish to add to the record 
+ 
+ 
+iii. Click "Continue" 
+ 
+ 
+iv. Select the Contact Type (Consultant or Developer) then select "Continue" 
+
+ 	 
+ADMINISTRATIVE GUIDELINES FOR THE  	 	 	 	 	 	 	          33  
+COMMUNITY FACILITIES AGREEMENTS ORDINANCE 
+11. To Add New: 
+ 
+iii. Fill out all required contact fields. NOTE: e-Mail address is required for any electronic correspondence / notifications on the project 
+ 
+ 
+iv. Select "Continue" 
+v. Once both contact types have been added, Select Continue Application 
+
+ 
+ 
+	ADMINISTRATIVE GUIDELINES FOR THE  	 	 	 	 	 	 	         34  
+COMMUNITY FACILITIES AGREEMENTS ORDINANCE 
+ 
+ 
+12. Enter the Project Information, ensuring all required fields are filled out properly. Anything with a red asterisk is always a required field. 
+ 
+ 
+14. Select a CFA item from the drop down 
+
+ 
+ 
+
+ 
+17. Once you have added all of the Proposed Costs for each CFA item, click on "Continue Application" 
+ 
+ 
+18. Upload required attachments. Click "Add"  
+19. Click "Add" again  
+20. Locate your .pdf at the file location you chose to save it to. For example. I chose to save my .pdf to a folder labeled "Accela Test" on my Desktop. I locate the file I wish to upload and double click it OR click it once then click the "Open" button. See next page.
+ 
+	ADMINISTRATIVE GUIDELINES FOR THE  	 	 	 	 	 	 	          35  
+COMMUNITY FACILITIES AGREEMENTS ORDINANCE 
+
+ 
+ADMINISTRATIVE GUIDELINES FOR THE  	 	 	 	 	 	 	         36  
+COMMUNITY FACILITIES AGREEMENTS ORDINANCE 
+ 
+21. Click the "Continue" button  if you are finished or Click the "Add" button and repeat steps 16-18 to add additional documents 
+ 
+ 
+ 
+22. In the "Type" dropdown, select what type of document you are uploading
+
+23. In the "Description" box, type a brief description of the document you are uploading 
+
+ 
+	ADMINISTRATIVE GUIDELINES FOR THE  	 	 	 	 	 	 	          37  
+COMMUNITY FACILITIES AGREEMENTS ORDINANCE 
+ 
+24. You do NOT need to make any selection in the "Virtual Folders" section for a CFA Application 
+ 
+ 
+ 
+25. Click the "Save" button  
+ 
+26. Click the "Continue Application" button  
+27. Your attachments have been uploaded successfully when you get the message below 
+ 
+ 
+28. Click the "Continue Application" button 
+ 
+ADMINISTRATIVE GUIDELINES FOR THE  	 	 	 	 	 	 	         38  
+COMMUNITY FACILITIES AGREEMENTS ORDINANCE 
+
+29. Review your application, playing close attention to details. Once you submit the application, you will not be able to go back and make any changes! You will have to contact the Development Coordination Office directly. 
+ 
+30. Once you have confirmed the project information, select the Continue Application button 
+ 
+31. Your application has been submitted successfully when you get the message below. Please note your CFA Record Number it generates for you. This number will come in handy when corresponding with the Development Coordination Office. 
+ 
+ 
+ 
+ 	 
+ 
+APPENDIX 3 
+BIDDING AND FINANCIAL GUARANTEE OPTIONS FOR CITY PARTICIPATION 
+ 
+ 
+City Participation Less than $3,000                 
+ 
+(1)   Public or Private Bid.  
+No Historically Underutilized Business (HUB) requirement.   Any financial guarantee (no completion agreement). 
+ 
+City Participation Less than $50,000 
+ 
+(1) Private Bid.   
+Must contact 2 HUBs.   
+Any financial guarantee (no completion agreement); 
+ 
+(2) Public Bid.   
+Must contact 2 HUBs.   
+Any financial guarantee (no completion agreement); or 
+ 
+(3) Private Bid under chapter 212 Local Government Code.   
+No HUB requirement.   
+Developer must execute a development bond for entire CFA contract (both City's and Developer's costs).   
+City Participation limited to 30% of the total CFA, 100% for oversizing. Unit Price Ordinance must be used to determine City Participation. 
+ 
+City Participation $50,000 or more 
+ 
+(1) Public bid.   
+      No HUB requirement.   
+      Any financial guarantee (no completion agreement); or 
+                
+(2) Private Bid under chapter 212 Local Government Code.   
+       No HUB requirement.   
+       Developer must execute a development bond for entire CFA contract amount (both City's and Developer's costs).  
+       City participation limited to 30% of the total CFA, or 100% for oversizing.  Unit Price Ordinance must be used to determine City Participation. 
+ 
+  
+APPENDIX 4 Construction Final Inspection Requirements 
+ 
+ 
+All pay items are complete. 
+Sewer videos turned in two weeks before date of final inspection in the proper format. 
+Redlines turned in to inspector. 
+Valve final complete with no punch list items. 
+Parkways dressed and sodded if called for. 
+Erosion control is in place. 
+Meter boxes adjusted to grade. 
+Offsite staging areas are restored. 
+All testing of water and sewer facilities are complete. 
+All material testing has been done and checked for compliance. 
+Joint seal complete. 
+All storm drain manholes and inlets are cleaned and wiped. 
+All sewer manholes are clean and wiped. 
+Steps in inlets and storm drain manholes installed if needed. 
+TDLR inspection if needed. 
+Sewer cleanouts staked, buried, and marked. 
+Verify all cut sheets have been uploaded. 
+Streets are clean. 
+Street lights are burning and have passed inspection. 
+Street signs and striping has been installed. 
+All lids to water valves, manholes, and inlets have been cleaned. 
+Deficient paving depth has been addressed. As-built survey uploaded. 
+ 	 
+APPENDIX 5 Examples of CFA Exhibits 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+ 
+	ADMINISTRATIVE GUIDELINES FOR THE  	 	 	 	 	 	 	         2  
+COMMUNITY FACILITIES AGREEMENTS ORDINANCE 
+
+ 	 
+	ADMINISTRATIVE GUIDELINES FOR THE  	 	 	 	 	 	 	          3  
+COMMUNITY FACILITIES AGREEMENTS ORDINANCE 
+
+ 
+	ADMINISTRATIVE GUIDELINES FOR THE  	 	 	 	 	 	 	         2  
+COMMUNITY FACILITIES AGREEMENTS ORDINANCE 
+
+
+
+
+
+
+
+ 
+ADMINISTRATIVE GUIDELINES FOR THE  	 	 	 	 	 	 	         2  
+COMMUNITY FACILITIES AGREEMENTS ORDINANCE 
+
+ 	 
+ADMINISTRATIVE GUIDELINES FOR THE  	 	 	 	 	 	 	          3  
+COMMUNITY FACILITIES AGREEMENTS ORDINANCE 
+
+ 	 
+ADMINISTRATIVE GUIDELINES FOR THE  	 	 	 	 	 	 	          3  
+COMMUNITY FACILITIES AGREEMENTS ORDINANCE 
+

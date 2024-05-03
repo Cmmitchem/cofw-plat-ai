@@ -64,4 +64,154 @@ The CFA (Chartered Financial Analyst) program is a professional credential offer
          Here are the files to analyze: 
 gpt-4-1106-preview
 
+A complete CFA application package includes a completed application form, payment of fees, and all required supporting documents such as transcripts and letters of recommendation. DOCUMENT:  Some common rules regarding safety of pedestrian include using crosswalks, looking both ways before crossing the street, and following traffic signals. 
+            QUESTION: What are some rules regarding safety of pedestrian?
+            INSTRUCTIONS: 
+            Answer the users QUESTION using the DOCUMENT text above.
+            Keep your answer ground in the facts of the DOCUMENT.
+            If the DOCUMENT doesn’t contain the facts to answer the QUESTION return NONE
+         Here are the files to analyze: 
+gpt-4-1106-preview
+
+Some common rules regarding the safety of pedestrians include using crosswalks, looking both ways before crossing the street, and following traffic signals. DOCUMENT:  Some common rules regarding safety of pedestrian include using crosswalks, looking both ways before crossing the street, and following traffic signals. 
+            QUESTION: What are some rules regarding safety of pedestrian?
+            INSTRUCTIONS: 
+            Answer the users QUESTION using the DOCUMENT text above.
+            Keep your answer ground in the facts of the DOCUMENT.
+            If the DOCUMENT doesn’t contain the facts to answer the QUESTION return NONE
+         Here are the files to analyze: 
+gpt-4-1106-preview
+
+Some common rules regarding the safety of pedestrians include using crosswalks, looking both ways before crossing the street, and following traffic signals. DOCUMENT:  Some common rules regarding safety of pedestrian include using crosswalks, looking both ways before crossing the street, and following traffic signals. 
+            QUESTION: What are some rules regarding safety of pedestrian?
+            INSTRUCTIONS: 
+            Answer the users QUESTION using the DOCUMENT text above.
+            Keep your answer ground in the facts of the DOCUMENT.
+            If the DOCUMENT doesn’t contain the facts to answer the QUESTION return NONE
+         Here are the files to analyze: 
+gpt-4-1106-preview
+
+Some common rules regarding the safety of pedestrians include using crosswalks, looking both ways before crossing the street, and following traffic signals. DOCUMENT:  Some common rules regarding safety of pedestrian include using crosswalks, looking both ways before crossing the street, and following traffic signals. 
+            QUESTION: What are some rules regarding safety of pedestrian?
+            INSTRUCTIONS: 
+            Answer the users QUESTION using the DOCUMENT text above.
+            Keep your answer ground in the facts of the DOCUMENT.
+            If the DOCUMENT doesn’t contain the facts to answer the QUESTION return NONE
+         Here are the files to analyze: 
+gpt-4-1106-preview
+
+Some rules regarding the safety of pedestrians include using crosswalks, looking both ways before crossing the street, and following traffic signals. DOCUMENT:  The allowable sound pressure levels (in dBA) with time of day allowance are 55 dBA during the day and 45 dBA at night.
+
+I don't know. 
+            QUESTION: What are the allowable sound pressure levels (in dBA) with time of day allowance?
+            INSTRUCTIONS: 
+            Answer the users QUESTION using the DOCUMENT text above.
+            Keep your answer ground in the facts of the DOCUMENT.
+            If the DOCUMENT doesn’t contain the facts to answer the QUESTION return NONE
+         Here are the files to analyze: 
+gpt-4-1106-preview
+
+The allowable sound pressure levels with time of day allowance are 55 dBA during the day and 45 dBA at night. DOCUMENT:  The allowable sound pressure levels (in dBA) with time of day allowance are 55 dBA during the day and 45 dBA at night.
+
+I don't know. 
+            QUESTION: What are the allowable sound pressure levels (in dBA) with time of day allowance?
+            INSTRUCTIONS: 
+            Answer the users QUESTION using the DOCUMENT text above.
+            Keep your answer ground in the facts of the DOCUMENT.
+            If the DOCUMENT doesn’t contain the facts to answer the QUESTION return NONE
+         Here are the files to analyze: 
+gpt-4-1106-preview
+
+The allowable sound pressure levels (in dBA) with time of day allowance are 55 dBA during the day and 45 dBA at night. DOCUMENT:  A complete CFA application package includes a completed application form, payment of fees, and all required supporting documents such as transcripts and letters of recommendation.
+
+Context:
+
+The CFA (Chartered Financial Analyst) program is a professional credential offered by the CFA Institute. It is a globally recognized certification for investment professionals, covering topics such as ethics, economics, financial reporting and analysis, and portfolio management. To become a CFA charterholder, candidates must pass three levels of exams and meet certain work experience requirements. The application process for the CFA program involves submitting a complete application package to the CFA Institute. 
+            QUESTION: What does a complete CFA application package include?
+            INSTRUCTIONS: 
+            Answer the users QUESTION using the DOCUMENT text above.
+            Keep your answer ground in the facts of the DOCUMENT.
+            If the DOCUMENT doesn’t contain the facts to answer the QUESTION return NONE
+         Here are the files to analyze: 
+gpt-4-1106-preview
+
+A complete CFA application package includes a completed application form, payment of fees, and all required supporting documents such as transcripts and letters of recommendation. DOCUMENT:  A complete CFA application package includes a completed application form, payment of fees, and all required supporting documents such as transcripts and letters of recommendation.
+
+Context:
+The CFA (Chartered Financial Analyst) program is a professional credential offered by the CFA Institute. It is a globally recognized certification for investment professionals, covering topics such as ethics, economics, financial reporting and analysis, and portfolio management. To become a CFA charterholder, candidates must pass three levels of exams and meet certain work experience requirements. The application process for the CFA program involves submitting a complete application package to the CFA Institute. 
+            QUESTION: What does a complete CFA application package include? 
+            INSTRUCTIONS: 
+            Answer the users QUESTION using the DOCUMENT text above.
+            Keep your answer ground in the facts of the DOCUMENT.
+            If the DOCUMENT doesn’t contain the facts to answer the QUESTION return NONE
+         Here are the files to analyze: 
+gpt-4-1106-preview
+
+A complete CFA application package includes a completed application form, payment of fees, and all required supporting documents such as transcripts and letters of recommendation. DOCUMENT:  A complete CFA application package typically includes a completed application form, transcripts, letters of recommendation, work experience documentation, and exam fees. 
+            QUESTION:  What does a complete CFA application package include? 
+            INSTRUCTIONS: 
+            Answer the users QUESTION using the DOCUMENT text above.
+            Keep your answer ground in the facts of the DOCUMENT.
+            If the DOCUMENT doesn’t contain the facts to answer the QUESTION return NONE
+         Here are the files to analyze: 
+gpt-4-1106-preview
+
+A complete CFA application package includes a completed application form, transcripts, letters of recommendation, work experience documentation, and exam fees. DOCUMENT: 
+
+I don't know. 
+            QUESTION: What is included in the Construction Package?
+            INSTRUCTIONS: 
+            Answer the users QUESTION using the DOCUMENT text above.
+            Keep your answer ground in the facts of the DOCUMENT.
+            If the DOCUMENT doesn’t contain the facts to answer the QUESTION return NONE
+         Here are the files to analyze: 
+gpt-4-1106-preview
+
+NONE DOCUMENT:  A complete CFA application package includes a completed application form, payment of fees, and all required supporting documents such as transcripts and letters of recommendation.
+
+Context:
+
+The CFA (Chartered Financial Analyst) program is a professional credential offered by the CFA Institute. It is a globally recognized certification for investment professionals, covering topics such as ethics, economics, financial reporting and analysis, and portfolio management. To become a CFA charterholder, candidates must pass three levels of exams and meet certain work experience requirements. The application process for the CFA program involves submitting a complete application package to the CFA Institute. 
+            QUESTION: What does a complete CFA application package include?
+            INSTRUCTIONS: 
+            Answer the users QUESTION using the DOCUMENT text above.
+            Keep your answer ground in the facts of the DOCUMENT.
+            If the DOCUMENT doesn’t contain the facts to answer the QUESTION return NONE
+         Here are the files to analyze: 
+gpt-4-1106-preview
+
+A complete CFA application package includes a completed application form, payment of fees, and all required supporting documents such as transcripts and letters of recommendation. DOCUMENT: 
+
+I don't know, as the context provided does not mention a specific construction package. 
+            QUESTION: What is included in the Construction Package?
+            INSTRUCTIONS: 
+            Answer the users QUESTION using the DOCUMENT text above.
+            Keep your answer ground in the facts of the DOCUMENT.
+            If the DOCUMENT doesn’t contain the facts to answer the QUESTION return NONE
+         Here are the files to analyze: 
+gpt-4-1106-preview
+
+NONE DOCUMENT: 
+
+I don't know, as the context provided does not mention a specific construction package. 
+            QUESTION: What is included in the Construction Package?
+            INSTRUCTIONS: 
+            Answer the users QUESTION using the DOCUMENT text above.
+            Keep your answer ground in the facts of the DOCUMENT.
+            If the DOCUMENT doesn’t contain the facts to answer the QUESTION return "No relevant embeddings found to answer this question."
+         Here are the files to analyze: 
+gpt-4-1106-preview
+
+No relevant embeddings found to answer this question. DOCUMENT:  A complete CFA application package includes a completed application form, payment of fees, and all required supporting documents such as transcripts and letters of recommendation.
+
+Context:
+The CFA (Chartered Financial Analyst) program is a professional credential offered by the CFA Institute. It is a globally recognized certification for investment professionals, particularly in the fields of finance and investment management. The application process for the CFA program involves submitting a completed application form, paying the required fees, and providing all necessary supporting documents. These documents may include transcripts, letters of recommendation, and proof of work experience. It is important to ensure that all required materials are included in the application package to avoid delays or rejection of the application. 
+            QUESTION: What does a complete CFA application package include? 
+            INSTRUCTIONS: 
+            Answer the users QUESTION using the DOCUMENT text above.
+            Keep your answer ground in the facts of the DOCUMENT.
+            If the DOCUMENT doesn’t contain the facts to answer the QUESTION return "No relevant embeddings found to answer this question."
+         Here are the files to analyze: 
+gpt-4-1106-preview
+
 A complete CFA application package includes a completed application form, payment of fees, and all required supporting documents such as transcripts and letters of recommendation.

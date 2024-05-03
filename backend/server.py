@@ -17,6 +17,7 @@ from db import get_movie, get_movies, get_plats
 from dotenv import load_dotenv
 from os import getenv
 import openai
+from mongodb_rag import retriever_query
 
 
 #from flask_cors import CORS
@@ -40,6 +41,9 @@ app.config['MONGO_URI'] = config['PROD']['DB_URI']
 CORS(app, origins="*")
 
 plat_list = []
+instructionPrompt = ''
+content = ''
+GPTresponse =''
 
 class MongoJsonEncoder(json.JSONEncoder):
     def default(self, obj):
@@ -93,7 +97,9 @@ def get_files(path):
 
 @app.route('/upload', methods=['GET'])
 def index():
+    
     json_data = read_json_file('platList.json')
+    #return {"response": json_data}
     return jsonify(json_data)
     #return {}
 # functions to upload PDFs to the testfolder on a local machine 
@@ -132,28 +138,11 @@ def fileUpload():
         #request.post()
         file_features_dict = dict({'File Path': filename, 
                                    'File': destination, 
-                                   'Prompt':  filePrompt
-                                   
+                                   'Prompt':  filePrompt,
+                                   'Response': '', 
                                }) 
         #load_pdf(destination)
     
-    file_path1 = 'platList.json'   
-    try:
-        with open(file_path1, 'r') as file:
-            data = json.load(file)
-            plat_list = data['plat_list']
-    except FileNotFoundError:
-            # If the file does not exist, initialize an empty list
-        plat_list = []
-    except json.JSONDecodeError:
-            # If the file is empty or corrupted, initialize an empty list
-        plat_list = []
-    
-    plat_list.append(file_features_dict)
-
-    with open(file_path1, 'w') as file: 
-            json.dump({'plat_list': plat_list}, file, indent=4, sort_keys=True)
-
     load_dotenv()
     openai.api_key = getenv('OPENAI_API_KEY')
 
@@ -174,7 +163,17 @@ def fileUpload():
     
     gpt_model="gpt-4-1106-preview"
 
-    prompt = filePrompt + " Here are the files to analyze: " + content
+    embeddings = retriever_query(filePrompt)
+    
+    prompt = f""" DOCUMENT: {embeddings} 
+            QUESTION: {filePrompt}
+            INSTRUCTIONS: 
+            Answer the users QUESTION using the DOCUMENT text above.
+            Keep your answer ground in the facts of the DOCUMENT.
+            If the DOCUMENT doesn’t contain the facts to answer the QUESTION return "No relevant embeddings found to answer this question."
+        """
+
+    prompt = prompt + " Here are the files to analyze: " + content
 
     response = openai.chat.completions.create(
         model="gpt-4-1106-preview", 
@@ -185,32 +184,32 @@ def fileUpload():
     )
 
     decision = response.choices[0].message.content
+
+    file_features_dict = dict({'FilePath': filename, 
+                                   'File': destination, 
+                                   'Prompt':  filePrompt,
+                                   'Response': decision, 
+                               })
+    file_path1 = 'platList.json'   
+    plat_list = []
+    
+    plat_list.append(file_features_dict)
+
+    with open(file_path1, 'w') as file1: 
+            json.dump({'plat_list': plat_list}, file1, indent=4, sort_keys=True)
     
     file_path = 'gptResponses.txt'
     gpt_model="gpt-4-1106-preview"
-
-    # Get current time
-    now = datetime.datetime.now() # current date and time
-
-    # Open a file in write mode ('w' stands for write)
-    # open a file in append mode ('a' stands for append)
     with open(file_path, 'a') as file:
-        # Write prompt, GPT model and response to the result file
-        file.write(now.strftime("%m-%d-%Y;%H:%M:%S"))
-        file.write('PROMPT: ' + prompt + '\n')
-        file.write('MODEL:' + gpt_model + '\n\n')
-        file.write('RESPONSE: ' + decision + '\n\n')
-        file.write('-----\n')
-    
-    file_features_dict = dict({'File Path': filename, 
-                                   'Prompt':  filePrompt, 
-                                   'Response': decision,    
-                               }) 
-    response = {
-        'response': decision
-    }
-    return response
+    # Write prompt, GPT model and response to the result file
+        file.write(prompt + '\n')
+        file.write(gpt_model + '\n\n')
+        file.write(decision)
+
+    #return response
     #return redirect(url_for('index'))
+    return {"plat_list": file_features_dict}
+    #return {"response": decision}
     
 
 

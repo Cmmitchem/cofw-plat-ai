@@ -17,6 +17,7 @@ class Main extends React.Component {
     this.handleUploadImage = this.handleUploadImage.bind(this);
   }
 
+  
 
   handleUploadImage(ev) {
     ev.preventDefault();
@@ -86,9 +87,10 @@ class Main extends React.Component {
           <input ref={(ref) => { this.uploadInput = ref; }} type="file" />
         </div>
         <div>
-          <input ref={(ref) => { this.filePrompt = ref; }} type="text" placeholder="Enter prompt here" className='prompt'/>
+          
+          <textarea ref={(ref) => { this.filePrompt = ref; }} type="text" placeholder="Enter prompt here" className='prompt' style={{whiteSpace: 'pre-line', textWrap: 'balance'}}/>
         </div>
-        <br />
+
         <div>
           <button onClick={this.handleUploadImage} className='upload'>Upload File</button>
           <div>{this.state.response}</div>

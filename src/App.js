@@ -74,8 +74,8 @@ function App() {
         </a>
         <p></p>
       <Main className="main"></Main>
-      <button onClick={fetchResponse}>Fetch Response</button>
-        <div>{gptResponse.response}</div>
+      <button onClick={fetchResponse} className='fetchButton'>Fetch Response</button>
+        <div className='GPTresponse'>{gptResponse.response}</div>
         
       </header>
       

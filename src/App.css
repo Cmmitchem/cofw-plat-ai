@@ -41,9 +41,22 @@
   margin: 10px;
   height: 100px;
   width: 500px;
+  font-size: medium;
+  text-wrap: wrap;
+  word-wrap: break-word;
+  line-break: auto;
 }
 
 .upload{
   height: 50px;
+
+}
+
+.GPTresponse{
+  margin: 10px;
+
+}
+.fetchButton{
+  margin: 10px;
 
 }
